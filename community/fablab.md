@@ -20,4 +20,16 @@ echo 'You got to trust me on this, I saved the world'
 ```
 
 
+Le lieu,   
+Les machines. 
+
+Combien ça coute? loyer, charges. 
+
+Les bossTools: 
+- CNC
+- Laser
+- 3Dprint
+- 101Tools
+- Electricite
+- Textile
 

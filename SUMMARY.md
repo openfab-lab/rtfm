@@ -5,5 +5,5 @@
   * [Fablab](community/fablab.md)
   * [Services](community/services.md)
   * [Workshops](community/workshops.md)
-  * [Appels à porjet](community/appels-a-porjet.md)
+  * [Appels à projet](community/appels-a-projet.md)
 

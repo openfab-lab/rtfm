@@ -18,8 +18,7 @@ All creatures welcome. Just be excellent to each other.
 ![](.gitbook/assets/memebers_09.png) ![](.gitbook/assets/memebers_10.png)
 ![](.gitbook/assets/memebers_11.png) ![](.gitbook/assets/memebers_12.png)
 
-![](.gitbook/assets/lvl4.003.jpg)
-![](.gitbook/assets/lvl4.002.jpg) ![](.gitbook/assets/lvl4.001.jpg)
+![](.gitbook/assets/lvl4.003.jpg) ![](.gitbook/assets/lvl4.002.jpg) ![](.gitbook/assets/lvl4.001.jpg)
 
 ![](.gitbook/assets/lvl5.jpg)
 

@@ -2,7 +2,9 @@
 
 THE openfab manual. Will be the source of all knowledge in the lab.
 
-![](.gitbook/assets/memebers_01.jpg) ![](.gitbook/assets/memebers_02.jpg) ![](.gitbook/assets/memebers_03.jpg) ![](.gitbook/assets/memebers_04.jpg) ![](.gitbook/assets/memebers_05.jpg) ![](.gitbook/assets/memebers_06.jpg) ![](.gitbook/assets/memebers_07.jpg) ![](.gitbook/assets/memebers_08.jpg) ![](.gitbook/assets/memebers_09.jpg) ![](.gitbook/assets/memebers_10.jpg) ![](.gitbook/assets/memebers_11.jpg) ![](.gitbook/assets/memebers_12.jpg) ![](.gitbook/assets/memebers_13.jpg) ![](.gitbook/assets/memebers_14.jpg) ![](.gitbook/assets/memebers_15.jpg) ![](.gitbook/assets/memebers_16.jpg) ![](.gitbook/assets/memebers_17.jpg)
+![](.gitbook/assets/memebers_01.jpg) ![](.gitbook/assets/memebers_02.jpg) ![](.gitbook/assets/memebers_03.jpg) ![](.gitbook/assets/memebers_04.jpg) ![](.gitbook/assets/memebers_05.jpg) ![](.gitbook/assets/memebers_06.jpg) ![](https://github.com/openfab-lab/rtfm/tree/c4dbe4737917150b46883658b571782b2df9fae3/.gitbook/assets/memebers_07.jpg) ![](https://github.com/openfab-lab/rtfm/tree/c4dbe4737917150b46883658b571782b2df9fae3/.gitbook/assets/memebers_08.jpg) ![](https://github.com/openfab-lab/rtfm/tree/c4dbe4737917150b46883658b571782b2df9fae3/.gitbook/assets/memebers_09.jpg) ![](https://github.com/openfab-lab/rtfm/tree/c4dbe4737917150b46883658b571782b2df9fae3/.gitbook/assets/memebers_10.jpg) ![](https://github.com/openfab-lab/rtfm/tree/c4dbe4737917150b46883658b571782b2df9fae3/.gitbook/assets/memebers_11.jpg) ![](.gitbook/assets/memebers_13.jpg) ![](.gitbook/assets/memebers_06.jpg) ![](.gitbook/assets/memebers_08.jpg) ![](https://github.com/openfab-lab/rtfm/tree/c4dbe4737917150b46883658b571782b2df9fae3/.gitbook/assets/memebers_15.jpg) ![](.gitbook/assets/memebers_13.jpg) ![](https://github.com/openfab-lab/rtfm/tree/c4dbe4737917150b46883658b571782b2df9fae3/.gitbook/assets/memebers_17.jpg)
+
+![](.gitbook/assets/memebers_13.jpg)
 
 **Hello, welcome on Board! We are glad to see you there :\)**
 

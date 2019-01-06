@@ -16,7 +16,7 @@ _All creatures welcome. Just be excellent to each other._
 
 ![](.gitbook/assets/lvl4.003.jpg) ![](.gitbook/assets/lvl4.002.jpg) ![](.gitbook/assets/lvl4.001.jpg)
 
-![](.gitbook/assets/lvl5.jpg)  
+![](.gitbook/assets/lvl5.jpg)  ![](.gitbook/assets/w.jpg)  
 
 ## Bienvenue,
 

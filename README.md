@@ -4,10 +4,9 @@ THE openfab manual. Will be the source of all knowledge in the lab.
 
 ## but first,
 
-### have a look at this awesome community:
-
-All creatures welcome. Just be excellent to each other.  
-`memebers, we respect your anonymity` 😉 
+**have a look at this awesome community:**  
+_All creatures welcome. Just be excellent to each other._   
+`memebers, we respect your anonymity` 😉
 
 ![](.gitbook/assets/lvl1.001.jpg) ![](.gitbook/assets/memebers_04.png) ![](.gitbook/assets/lvl1.002.jpg) ![](.gitbook/assets/lvl1.003.jpg) ![](.gitbook/assets/lvl1.004.jpg) ![](.gitbook/assets/memebers_01.png) ![](.gitbook/assets/lvl1.005.jpg) ![](.gitbook/assets/lvl1.006.jpg) ![](.gitbook/assets/lvl1.007.jpg) ![](.gitbook/assets/lvl1.008.jpg) ![](.gitbook/assets/memebers_03.png) ![](.gitbook/assets/lvl1.009.jpg) ![](.gitbook/assets/lvl1.010.jpg) ![](.gitbook/assets/lvl1.011.jpg) ![](.gitbook/assets/memebers_02.png)
 
@@ -17,7 +16,7 @@ All creatures welcome. Just be excellent to each other.
 
 ![](.gitbook/assets/lvl4.003.jpg) ![](.gitbook/assets/lvl4.002.jpg) ![](.gitbook/assets/lvl4.001.jpg)
 
-![](.gitbook/assets/lvl5.jpg)
+![](.gitbook/assets/lvl5.jpg)  
 
 ## Bienvenue,
 
@@ -45,41 +44,15 @@ Ce document va vous guider à travers tout ça et les différentes ressources qu
 
 Bienvenue à l'atelier, on va bien bricolez !
 
-Quand vous arrivez pour la première fois dans le lab en tant qu'utilisateur vous devenez "USER". En tant qu'USER, vous avez accès :
+---
 
-* à l'atelier et toutes ses machines et ressources lors des \[permanences.\]
-* au groupe Facebook [OpenFab.lab](https://facebook.com/openfab.lab) où vous pouvez intérargir avec tous les autres membres. N'hésitez pas à vous présenter et à participer aux discussions.
-* ainsi qu'à votre espace membre où vous pouvez payer votre cotisation, documenter vos projets et visualiser vos badges et votre LOOTCRATE.
+OpenFab n'est pas un shop, pas une entreprise mais une association, c'est un collectif de makers qui, seul ou en groupe, mutualisent un espace, levelup leurs compétences grâce à l'aide de la communauté.  
+Ils peuvent ensuite choisir de partager leur savoir-faires en animant des workshops ou en fournissant un service.  
 
-  Qu'est ce que le LOOTCRATE ? C'est une sorte de trésorerie virtuelle entièrement liée à votre expérience gamifiée. Dedans se trouve :
+Nous partageons mais tout à un prix  
+![image](https://user-images.githubusercontent.com/12049360/50536443-01b0cb00-0b55-11e9-88f8-e00be3997ce7.png)
 
-* vos badges
-* vos crédits \(les CRR\)
-* vos dés de jeux \(les D\)
-
-  Nous verrons un peu plus loins comment gagner tout ça.
-
-  Pour valider vos badges, crédits \(CRR\) et amasser vos D. Vou devez participer à la vie de l'atelier. Il y a différentes manières de faire ça.
-
-* documenter vos projets sous forme de tutoriel ou récit sur GitHub
-* organiser des événements ou ateliers
-* remplir des tâches de fonctionnement de l'atelier \(du classique : sortir les poubelles, à s'occuper de la comptabilité en passant par l'entretien des machines\)
-* répondre à des JOB proposer par l'équipe gestion en s'appliquant dans des TASK FORCE.
-
-  Heureusement, tout cela se fait petit à petit, étape par étape avec l'aide des USER et SuperUSER.
-
-  Ah tiens, les SuperUSER. Ce sont des USER qui ont démontrer leurs compétences et en qui la ommunauté des USER ont confiance.
-
-  Pour passer de USER à SuperUSER il faut :
-
-* un minimun de ?? badges
-* s'engager dans une TASK FORCE régulièrement
-
-  Vous avez alors accès à :
-
-* une clef pour ouvrir l'atelier pour des permanences
-* un coût machine inférieur
-* la possibilité de gagner de l'argent réel ou crédit lors des JOB
+Les montants demandés se veulent juste et ont pour objectif de financer les charges communes (loyer, l'entretient des machines et le développement d'activités).  
 
 ## Pour rejoindre la communauté
 
@@ -94,4 +67,3 @@ C'est bon ? Ca vous tente de jouer ? Commençons pas à pas.
 5. Gagner son premier badge dans une machine de votre choix
 
 Pour valider une BADGE, il suffit de documenter ce que vous avez fait en rapport avec ce badge sur votre GitHub et l'annoncer fièrement aux autres USERS et boire une bière pour fêter ça.
-

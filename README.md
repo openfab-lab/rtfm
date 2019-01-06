@@ -7,7 +7,7 @@ THE openfab manual. Will be the source of all knowledge in the lab.
 ### have a look at this awesome community:
 
 All creatures welcome. Just be excellent to each other.  
-`memebers, we respect your anonymity` :wink:
+`memebers, we respect your anonymity` 😉 
 
 ![](.gitbook/assets/lvl1.001.jpg) ![](.gitbook/assets/memebers_04.png) ![](.gitbook/assets/lvl1.002.jpg) ![](.gitbook/assets/lvl1.003.jpg) ![](.gitbook/assets/lvl1.004.jpg) ![](.gitbook/assets/memebers_01.png) ![](.gitbook/assets/lvl1.005.jpg) ![](.gitbook/assets/lvl1.006.jpg) ![](.gitbook/assets/lvl1.007.jpg) ![](.gitbook/assets/lvl1.008.jpg) ![](.gitbook/assets/memebers_03.png) ![](.gitbook/assets/lvl1.009.jpg) ![](.gitbook/assets/lvl1.010.jpg) ![](.gitbook/assets/lvl1.011.jpg) ![](.gitbook/assets/memebers_02.png)
 

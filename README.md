@@ -2,9 +2,11 @@
 
 THE openfab manual. Will be the source of all knowledge in the lab.
 
-![](.gitbook/assets/memebers_01.jpg) ![](.gitbook/assets/memebers_02.jpg) ![](.gitbook/assets/memebers_03.jpg) ![](.gitbook/assets/memebers_04.jpg) ![](.gitbook/assets/memebers_05.jpg) ![](.gitbook/assets/memebers_06.jpg) ![](/assets/memebers_07.jpg) ![](/assets/memebers_08.jpg) ![](assets/memebers_09.jpg) ![](assets/memebers_10.jpg) 
+![](.gitbook/assets/memebers_01.jpg) ![](.gitbook/assets/memebers_02.jpg) ![](.gitbook/assets/memebers_03.jpg) ![](.gitbook/assets/memebers_04.jpg) ![](.gitbook/assets/memebers_05.jpg) ![](.gitbook/assets/memebers_06.jpg) ![](https://github.com/openfab-lab/rtfm/tree/f6095b581928c00a44f5271c782aa5b95696ea7d/assets/memebers_07.jpg) ![](https://github.com/openfab-lab/rtfm/tree/f6095b581928c00a44f5271c782aa5b95696ea7d/assets/memebers_08.jpg) ![](https://github.com/openfab-lab/rtfm/tree/f6095b581928c00a44f5271c782aa5b95696ea7d/assets/memebers_09.jpg) ![](https://github.com/openfab-lab/rtfm/tree/f6095b581928c00a44f5271c782aa5b95696ea7d/assets/memebers_10.jpg)
 
 ![](.gitbook/assets/memebers_13.jpg)
+
+![](.gitbook/assets/memebers_08.jpg)
 
 **Hello, welcome on Board! We are glad to see you there :\)**
 

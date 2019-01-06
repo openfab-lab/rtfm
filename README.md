@@ -1,26 +1,18 @@
-//# Introduction
+# Introduction
+
+//\# Introduction
 
 THE openfab manual. Will be the source of all knowledge in the lab.
 
-![](.gitbook/assets/lvl1.001.jpg) ![](.gitbook/assets/lvl1.002.jpg) ![](.gitbook/assets/lvl1.003.jpg)
-![](.gitbook/assets/lvl1.004.jpg) ![](.gitbook/assets/lvl1.005.jpg)
-![](.gitbook/assets/lvl1.006.jpg) ![](.gitbook/assets/lvl1.007.jpg)
-![](.gitbook/assets/lvl1.008.jpg) ![](.gitbook/assets/lvl1.009.jpg)
-![](.gitbook/assets/lvl1.010.jpg) ![](.gitbook/assets/lvl1.011.jpg)
-![](.gitbook/assets/memebers_01.png) ![](.gitbook/assets/memebers_02.png) ![](.gitbook/assets/memebers_03.png) ![](.gitbook/assets/memebers_04.png)
+![](.gitbook/assets/lvl1.001.jpg) ![](.gitbook/assets/lvl1.002.jpg) ![](.gitbook/assets/lvl1.003.jpg) ![](.gitbook/assets/lvl1.004.jpg) ![](.gitbook/assets/lvl1.005.jpg) ![](.gitbook/assets/lvl1.006.jpg) ![](.gitbook/assets/lvl1.007.jpg) ![](.gitbook/assets/lvl1.008.jpg) ![](.gitbook/assets/lvl1.009.jpg) ![](.gitbook/assets/lvl1.010.jpg) ![](.gitbook/assets/lvl1.011.jpg) ![](.gitbook/assets/memebers_01.png) ![](.gitbook/assets/memebers_02.png) ![](.gitbook/assets/memebers_03.png) ![](.gitbook/assets/memebers_04.png)
 
 ![](.gitbook/assets/memebers_05.png) ![](.gitbook/assets/memebers_06.png) ![](.gitbook/assets/memebers_07.png) ![](.gitbook/assets/memebers_08.png)
 
-![](.gitbook/assets/lvl3.003.jpg)
-![](.gitbook/assets/lvl3.002.jpg) ![](.gitbook/assets/lvl3.001.jpg)
-![](.gitbook/assets/memebers_09.png) ![](.gitbook/assets/memebers_10.png)
-![](.gitbook/assets/memebers_11.png) ![](.gitbook/assets/memebers_12.png)
+![](.gitbook/assets/lvl3.003.jpg) ![](.gitbook/assets/lvl3.002.jpg) ![](.gitbook/assets/lvl3.001.jpg) ![](.gitbook/assets/memebers_09.png) ![](.gitbook/assets/memebers_10.png) ![](.gitbook/assets/memebers_11.png) ![](.gitbook/assets/memebers_12.png)
 
-![](.gitbook/assets/lvl4.003.jpg)
-![](.gitbook/assets/lvl4.002.jpg) ![](.gitbook/assets/lvl4.001.jpg)
+![](.gitbook/assets/lvl4.003.jpg) ![](.gitbook/assets/lvl4.002.jpg) ![](.gitbook/assets/lvl4.001.jpg)
 
 ![](.gitbook/assets/lvl5.jpg)
-
 
 **Hello, welcome on Board! We are glad to see you there :\)**
 
@@ -81,3 +73,4 @@ C'est bon ? Ca vous tente de jouer ? Commençons pas à pas.
 5. Gagner son premier badge dans une machine de votre choix
 
 Pour valider une BADGE, il suffit de documenter ce que vous avez fait en rapport avec ce badge sur votre GitHub et l'annoncer fièrement aux autres USERS et boire une bière pour fêter ça.
+

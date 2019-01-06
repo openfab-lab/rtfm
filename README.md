@@ -2,7 +2,8 @@
 
 THE openfab manual. Will be the source of all knowledge in the lab.
 
-![](.gitbook/assets/memebers_01.jpg)![](.gitbook/assets/memebers_02.jpg)![](.gitbook/assets/memebers_03.jpg)![](.gitbook/assets/memebers_04.jpg)![](.gitbook/assets/memebers_05.jpg)
+![](.gitbook/assets/memebers_01.jpg) ![](.gitbook/assets/memebers_02.jpg) ![](.gitbook/assets/memebers_03.jpg)
+![](.gitbook/assets/memebers_04.jpg) ![](.gitbook/assets/memebers_05.jpg) ![](.gitbook/assets/memebers_06.jpg)
 
 **Hello, welcome on Board! We are glad to see you there :\)**
 

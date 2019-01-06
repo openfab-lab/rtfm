@@ -38,27 +38,23 @@ We are building a living fablab, more sustainable and resilient to embrace chang
 
 ## How
 
-Ici nous envisageons le travail comme un jeu, une expérience à part entière ; nous avons gamifier le système financier de base, le transformer en une expérience entièrement collaborative où l'atelier devient votre espace. Vous pouvez acquérir de l'argent pour utiliser les machines, gagner des badges à chaque apprentissage de nouvelles compétences, prendre des nouveaux venus en mentorat, jouer votre temps contre des bières, vous organisez en guilde, et plus encore.
-
-Ce document va vous guider à travers tout ça et les différentes ressources que vous allez avoir besoin.
-
-Bienvenue à l'atelier, on va bien bricolez !
-
----
-
-OpenFab n'est pas un shop, pas une entreprise mais une association, c'est un collectif de makers qui, seul ou en groupe, mutualisent un espace, levelup leurs compétences grâce à l'aide de la communauté.  
+**OpenFab n'est pas un shop**, pas une entreprise mais une association, c'est **un collectif de makers** qui mutualisent un espace, levelup leurs compétences grâce à l'aide de la communauté.  
 Ils peuvent ensuite choisir de partager leur savoir-faires en animant des workshops ou en fournissant un service.  
 
 Nous partageons mais tout à un prix  
 ![image](https://user-images.githubusercontent.com/12049360/50536443-01b0cb00-0b55-11e9-88f8-e00be3997ce7.png)
 
-Les montants demandés se veulent juste et ont pour objectif de financer les charges communes (loyer, l'entretient des machines et le développement d'activités).  
+Pas d'employé, une gestion communautaire et les montants demandés se veulent juste et ont pour objectif de financer les charges communes (le loyer, les machines, la gestion et le développement d'activités).  
 
 ## Pour rejoindre la communauté
 
 _how to join?_
 
-C'est bon ? Ca vous tente de jouer ? Commençons pas à pas.
+3 cas de figure.  
+1. Tu as pour habitude de relever les defis, chercher après tes solutions. Pas besoin qu'on te prenne par la main, tu sais ce que tu as besoin mais tu as un projet en tête mais il te manque place, outils ou simplement une communauté avec qui parler de ton projet. That's cool. Le fablab est parfais pour toi. [continue ici](community/fablab.md)
+2. Chercher par toi même te saoule, mais tu aimerai découvrir des nouvelles technologies et tu préfère être accompagné dans la réalisation d'un projet qui fonctionne. Génial, on a un paquet de membres qui aime partager leur passion. [les workshops seront parfait pour toi](#Workshops)  
+3. 2 bras gauches, pas le tps ou simplement envie de supporter des artisans locaux. On peut s'occuper de certains jobs pour vous.  
+Aujourd'hui, la demande la plus courante est [l'enseigne personnalisée](#Services).
 
 1. Accèder à son interface et payer sa cotisation
 2. Participer à une première participer sur votre projet ou un projet de votre choix
@@ -67,3 +63,22 @@ C'est bon ? Ca vous tente de jouer ? Commençons pas à pas.
 5. Gagner son premier badge dans une machine de votre choix
 
 Pour valider une BADGE, il suffit de documenter ce que vous avez fait en rapport avec ce badge sur votre GitHub et l'annoncer fièrement aux autres USERS et boire une bière pour fêter ça.
+
+
+### Workshops
+
+zoup, yoyoyoyoyol o
+
+![workshops](https://macm.org/app/uploads/2017/05/MG_1543_%C2%A9SebastienRoy_dev-2-1.jpg)
+
+
+### Services
+Encollage et peinture des tranches  
+![image](https://user-images.githubusercontent.com/12049360/46026179-ff207e80-c0ea-11e8-981a-0df6aa381075.png)
+
+Logo en bois, découpé laser, encollé, peint et vernis selon plans du client.  
+Prix: ~550€ tvac  **-non posé ^^'-**
+---
+![dsc01276m](https://user-images.githubusercontent.com/25099826/46594928-235e6100-cad6-11e8-9484-068f120e4176.jpg)
+
+![panorama sans titre1m](https://user-images.githubusercontent.com/25099826/46594927-22c5ca80-cad6-11e8-8b4e-16bbb1f9c580.jpg)

@@ -48,23 +48,34 @@ Pas d'employé, une gestion communautaire et les montants demandés se veulent j
 
 ## Pour rejoindre la communauté
 
-_how to join?_
+_Want to join?_
 
-3 cas de figure.  
+You’re part of the makers Nation!   
+At Openfab, we believe in the idea of an makers Nation, as explained here and here. Without any borders and with a shared language, (yes, English/github), we’re convinced that almost every country holds people who are citizens of makers Nation.   
+While there are probably more people from the makers Nation in the US, its citizens are everywhere, in every fablab, makerspace, biolab,...  And this represents a huge opportunity for you to levelup.
 
-1. Tu as pour habitude de relever les defis, chercher après tes solutions. Pas besoin qu'on te prenne par la main, tu sais ce que tu as besoin mais tu as un projet en tête mais il te manque place, outils ou simplement une communauté avec qui parler de ton projet. That's cool. Le fablab est parfais pour toi. [continue ici](community/fablab.md)
-2. Chercher par toi même te saoule, mais tu aimerai découvrir des nouvelles technologies et tu préfère être accompagné dans la réalisation d'un projet qui fonctionne. Génial, on a un paquet de membres qui aime partager leur passion. [les workshops seront parfait pour toi](#Workshops)  
-3. 2 bras gauches, pas le tps ou simplement envie de supporter des artisans locaux. On peut s'occuper de certains jobs pour vous.  
+So bring your skills’ real value to the table, not just your nationality.
+
+
+**3 cas de figure.**  
+
+1. Tu as pour habitude de relever les defis, chercher après tes solutions. Pas besoin qu'on te prenne par la main, **tu sais ce que tu as besoin** mais tu as un projet en tête mais il te manque place, outils ou simplement une communauté avec qui parler de ton projet. That's cool. Le fablab est parfais pour toi. [continue ici](community/fablab.md)
+2. Chercher par toi même te saoule, mais tu aimerai découvrir des nouvelles technologies et **tu préfère être accompagné dans la réalisation** d'un projet qui fonctionne. Génial, on a un paquet de membres qui aime partager leur passion. [les workshops seront parfait pour toi](#Workshops)  
+3. 2 bras gauches, pas le tps ou simplement **envie de supporter des artisans locaux**. On peut s'occuper de certains jobs pour vous.  
 Aujourd'hui, la demande la plus courante est [l'enseigne personnalisée](#Services).
 
-1. Accèder à son interface et payer sa cotisation
-2. Participer à une première participer sur votre projet ou un projet de votre choix
-3. Documenter votre projet sur votre interface ou GitHub
-4. Remplir une première issue
-5. Gagner son premier badge dans une machine de votre choix
 
-Pour valider une BADGE, il suffit de documenter ce que vous avez fait en rapport avec ce badge sur votre GitHub et l'annoncer fièrement aux autres USERS et boire une bière pour fêter ça.
+### fablab
+Une inscription à l'ASBL et un parcours d'apprentissage.  
+5 niveaux de membres.
 
+1. Introduction - utilisation du lab sans participer (voir tarifs)
+2. Onboarding - envie de participer, cela passe par une étape d'apprentissage solo.
+3. Scaffolding - du projet solo aux projets de groupe. Accès aux teams.
+4. TeamWork - niveau pro, contributeur au projet, accès à la gestion de team et prestations.
+5. Exploration - master collaboration, connecting with communities abroad, discover new opportunies and making it available for others.
+
+Passport maker, local currency, human-Focused design, methode Agile and github is some of the ingredients of the recipe.
 
 ### Workshops
 

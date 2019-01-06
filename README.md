@@ -51,6 +51,7 @@ Pas d'employé, une gestion communautaire et les montants demandés se veulent j
 _how to join?_
 
 3 cas de figure.  
+
 1. Tu as pour habitude de relever les defis, chercher après tes solutions. Pas besoin qu'on te prenne par la main, tu sais ce que tu as besoin mais tu as un projet en tête mais il te manque place, outils ou simplement une communauté avec qui parler de ton projet. That's cool. Le fablab est parfais pour toi. [continue ici](community/fablab.md)
 2. Chercher par toi même te saoule, mais tu aimerai découvrir des nouvelles technologies et tu préfère être accompagné dans la réalisation d'un projet qui fonctionne. Génial, on a un paquet de membres qui aime partager leur passion. [les workshops seront parfait pour toi](#Workshops)  
 3. 2 bras gauches, pas le tps ou simplement envie de supporter des artisans locaux. On peut s'occuper de certains jobs pour vous.  

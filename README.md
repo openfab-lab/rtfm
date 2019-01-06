@@ -1,17 +1,19 @@
-//# Introduction
+THE openfab manual. Will be the source of all knowledge in the lab.  
+## but first,
+### have a look at this awesome community:
+All creatures welcome. Just be excellent to each other.  
+`memebers, we respect your anonymity` :wink:
 
-THE openfab manual. Will be the source of all knowledge in the lab.
-
-![](.gitbook/assets/lvl1.001.jpg) ![](.gitbook/assets/lvl1.002.jpg) ![](.gitbook/assets/lvl1.003.jpg)
-![](.gitbook/assets/lvl1.004.jpg) ![](.gitbook/assets/lvl1.005.jpg)
+![](.gitbook/assets/lvl1.001.jpg) ![](.gitbook/assets/memebers_04.png) ![](.gitbook/assets/lvl1.002.jpg) ![](.gitbook/assets/lvl1.003.jpg)
+![](.gitbook/assets/lvl1.004.jpg) ![](.gitbook/assets/memebers_01.png) ![](.gitbook/assets/lvl1.005.jpg)
 ![](.gitbook/assets/lvl1.006.jpg) ![](.gitbook/assets/lvl1.007.jpg)
-![](.gitbook/assets/lvl1.008.jpg) ![](.gitbook/assets/lvl1.009.jpg)
+![](.gitbook/assets/lvl1.008.jpg) ![](.gitbook/assets/memebers_03.png) ![](.gitbook/assets/lvl1.009.jpg)
 ![](.gitbook/assets/lvl1.010.jpg) ![](.gitbook/assets/lvl1.011.jpg)
-![](.gitbook/assets/memebers_01.png) ![](.gitbook/assets/memebers_02.png) ![](.gitbook/assets/memebers_03.png) ![](.gitbook/assets/memebers_04.png)
+ ![](.gitbook/assets/memebers_02.png)  
 
-![](.gitbook/assets/memebers_05.png) ![](.gitbook/assets/memebers_06.png) ![](.gitbook/assets/memebers_07.png) ![](.gitbook/assets/memebers_08.png)
+![](.gitbook/assets/memebers_05.png) ![](.gitbook/assets/memebers_06.png) ![](.gitbook/assets/memebers_07.png) ![](.gitbook/assets/lvl3.003.jpg)
 
-![](.gitbook/assets/lvl3.003.jpg)
+![](.gitbook/assets/memebers_08.png)
 ![](.gitbook/assets/lvl3.002.jpg) ![](.gitbook/assets/lvl3.001.jpg)
 ![](.gitbook/assets/memebers_09.png) ![](.gitbook/assets/memebers_10.png)
 ![](.gitbook/assets/memebers_11.png) ![](.gitbook/assets/memebers_12.png)
@@ -21,13 +23,24 @@ THE openfab manual. Will be the source of all knowledge in the lab.
 
 ![](.gitbook/assets/lvl5.jpg)
 
+## Bienvenue,
+*Hello, welcome on Board! We are glad to see you here :\)*
 
-**Hello, welcome on Board! We are glad to see you there :\)**
+**@Openfab**  
+We want you to get better at making stuff.  
+More than a fablab, **more than a tool box**, we have a place (tailor made for you) where you can make better, because **we do it together**.
 
-is a FabLab based at 274 Avenue de la Couronne in Ixelles that encourages new means of creations providing to its network machines. 100% independent, OpenFab is an ecosystem gathering capacities to foster innovation and creativity. From the machines to the communication, this guild 2.0 supports open source.
+**Level Up yourself**, within a community and peer to peer learning.  
+Through Human-Focused Design and mentorship, you will choose what to learn, how to make and be free to share your own experience.  
+Here, you can develop your technical skills and evolve your human abilities in a **friendly environment**.  
 
-## Bienvenue à l'atelier OpenFab,
+Thanks to **a community of “makers who make”**, who produce and earn a living in a sharing economy.  
+We are building a living fablab, more sustainable and resilient to embrace change.
 
+>“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”   
+— _Buckminster Fuller_
+
+## How
 Ici nous envisageons le travail comme un jeu, une expérience à part entière ; nous avons gamifier le système financier de base, le transformer en une expérience entièrement collaborative où l'atelier devient votre espace. Vous pouvez acquérir de l'argent pour utiliser les machines, gagner des badges à chaque apprentissage de nouvelles compétences, prendre des nouveaux venus en mentorat, jouer votre temps contre des bières, vous organisez en guilde, et plus encore.
 
 Ce document va vous guider à travers tout ça et les différentes ressources que vous allez avoir besoin.
@@ -70,7 +83,8 @@ Quand vous arrivez pour la première fois dans le lab en tant qu'utilisateur vou
 * un coût machine inférieur
 * la possibilité de gagner de l'argent réel ou crédit lors des JOB
 
-## PREMIER PAS EN TANT QUE USER :
+## Pour rejoindre la communauté
+_how to join?_
 
 C'est bon ? Ca vous tente de jouer ? Commençons pas à pas.
 

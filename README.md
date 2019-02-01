@@ -75,11 +75,11 @@ Une inscription à l'ASBL et un parcours d'apprentissage.
 4. TeamWork - niveau pro, contributeur au projet, accès à la gestion de team et prestations.
 5. Exploration - master collaboration, connecting with communities abroad, discover new opportunies and making it available for others.
 
-Passport maker, local currency, human-Focused design, methode Agile and github is some of the ingredients of the recipe.
+Passport maker, local currency, human-Focused design, method Agile and github is some of the ingredients of the recipe.
 
 ### Workshops
 
-zoup, yoyoyoyoyol o
+zoup, yoyoyoyoyolo
 
 ![workshops](https://macm.org/app/uploads/2017/05/MG_1543_%C2%A9SebastienRoy_dev-2-1.jpg)
 

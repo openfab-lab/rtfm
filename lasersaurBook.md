@@ -7,9 +7,9 @@
 Members have to note their timing in the book, hanging on the right side.   
 `Please, be thorough and readable`  
 `Please, round to 1/2 hour`  
-`Please, clean your shit when done`  
+`Please and thank you`  
 `Remember to be excellent to each other`  
-`Please and thank you`
+`Clean your shit when done`  
 
 |  Name  	|  Date 	| Project  	| Time (by 0.5h)  	| Paid how? 	|
 |:-:	|:-:	|:-:	|---	|---	|

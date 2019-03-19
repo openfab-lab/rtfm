@@ -46,7 +46,7 @@ un peu comme ici:
 un carré est ajouté lors de l'export et remplace l'espace marquant les "milliers".   
 
 **Les €**  
-il faut vérifier que les données de valeurs ne sont pas considérées comme du texte et que le
+il faut vérifier que les données de valeurs ne sont pas considérées comme du texte et que le signe des "€" n'accompagne pas les valeurs.  
 
 **Les -**  
 ben oui, parce qu'il y a une colonne débit et une colonne crédit alors toutes les valeurs sont positives. _shuuuuuut, don't ask, c'est un truc de comptable_

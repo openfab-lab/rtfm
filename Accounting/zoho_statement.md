@@ -1,5 +1,7 @@
 [ref issue #3](https://github.com/openfab-lab/rtfm/issues/3)
 
+**Need:** `Login banque, Login ZOHO, Access TeamDrive/OF-Compta`
+
 # "Statement": c'est quoi?
 C'est les extraits de compte. Les lignes de mouvements IN/OUT, les sous qu'on reçoit et qu'on donne.  
 On a besoin de ça pour valider les opérations que l'on encode dans Zoho et c'est mieux d'aller chercher ça sur son compte en ligne plutôt que de tout écrire à la main.

@@ -1,4 +1,3 @@
-
 ## Tools - Lasersaur
 
 ### Lasersaur book
@@ -28,3 +27,11 @@ In the last column, please indicate your way of payment.
 - `FACTURE`, (report to the [sheriff](https://user-images.githubusercontent.com/12049360/54678038-8aac2280-4b04-11e9-865d-e1aabe221d46.png) of the lab)
 
 `The line is crossed when it's paid and validated.`
+
+
+# Failing to do so
+
+**The one who do not comply with this simple rule, will be in charge of this checking the next month.**  
+### Laser privilege will be revoked until resolution.
+
+![gif](https://i.imgur.com/Qd0BkhJ.gif)

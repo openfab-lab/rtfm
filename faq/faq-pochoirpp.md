@@ -5,18 +5,18 @@
 ### Matières?
 
 _**Quelle matière peut-on utiliser pour les pochoirs ?**_     
-****Nous pouvons découper des pochoirs en cartons, en bois, en plexi ou même papier ou textile mais nous obtenons les meilleurs résultat avec le polypropylène \(ex: matière plastique des couvertures de cahier ATOMA\).    
+Nous pouvons découper des pochoirs en cartons, en bois, en plexi ou même papier ou textile mais nous obtenons les meilleurs résultat avec le polypropylène \(ex: matière plastique des couvertures de cahier ATOMA\).    
 Les autres matières fonctionne aussi mais conviennent mieux pour des usages uniques ou spécifiques.  
 
 _**Est-ce que c'est solide ?**_     
-****Oui, il peut même s'utiliser avec le nettoyeur haute-pression.
+Oui, il peut même s'utiliser avec le nettoyeur haute-pression.
 
 ![](../.gitbook/assets/image.png)
 
 ### Design et fichier?
 
 _**Est-ce que c'est précis ?**_    
-****La technique du pochoir a ses avantages et ses inconvénients. Il ne faut pas espérer avoir la qualité et le détail d'un stickers ou d'une sérigraphie, mais un design adapté donne un rendu très satisfaisant.
+La technique du pochoir a ses avantages et ses inconvénients. Il ne faut pas espérer avoir la qualité et le détail d'un stickers ou d'une sérigraphie, mais un design adapté donne un rendu très satisfaisant.
 
 _**Je ne suis pas à l'aise avec les logiciels de dessin. Est-ce que vous pouvez m'aider?**_   
 Oui, bien sur.   
@@ -28,13 +28,13 @@ Le tarif horaire de 55€/h est appliqué.
 Mais tout le monde y gagne en temps et en qualité des résultats en fin de projet.
 
 _**Quel format faut il fournir ?**_    
-****Un fichier vectoriel à l'échelle 1/1, en mm, au format **.svg, .pdf, .dxf, .ai**  
+Un fichier vectoriel à l'échelle 1/1, en mm, au format **.svg, .pdf, .dxf, .ai**  
 -PAS de fichier .eps, merci.-   
 `Dans le milieu professionnel, le format EPS était très utilisé car il conserve toutes les qualités vectorielles. Aujourd'hui on lui préfère le format PDF, plus polyvalent, qui ne nécessite pas l'usage de logiciel payant pour en visualiser le contenu.`
 
 _**Quel est le délai de production ?**_    
-****Un délai moyen d'une semaine est à prévoir selon les quantités commandées.     
-****Nous ne sommes pas un magasin, mais un collectif de maker.     
+Un délai moyen d'une semaine est à prévoir selon les quantités commandées.     
+Nous ne sommes pas un magasin, mais un collectif de maker.     
 À ce titre, nous sommes dépendants de la disponibilité des machines et des makers qualifiés. 
 
 ### Combien ça coûte?

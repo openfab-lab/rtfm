@@ -1,4 +1,4 @@
-# Fablab
+# The lab
 
 ## Getting Super Powers
 

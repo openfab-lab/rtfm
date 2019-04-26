@@ -3,10 +3,10 @@
 * [Introduction](README.md)
 * [Community](community/README.md)
   * [The lab](community/fablab.md)
-  * [The Tools](Tools\Tools_lasersaur_Book.md)
+  * [The Tools](community/tools_lasersaur_book.md)
   * [Workshops](community/workshops.md)
   * [Appels à projet](community/appels-a-projet.md)
-* [Services](Services/services.md)
+* [Services](services.md)
 
 ## Github
 
@@ -16,4 +16,5 @@
 
 ## FAQ
 
-* [Pochoirs](FAQ/faq-pochoirPP.md)
+* [Pochoirs](faq/faq-pochoirpp.md)
+

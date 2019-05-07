@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Community](community/README.md)
   * [The lab](community/fablab.md)
-  * [The Tools](community/tools_lasersaur_book.md)
+  * [The Tools](Tools\)
   * [Workshops](community/workshops.md)
   * [Appels à projet](community/appels-a-projet.md)
 * [Services](services.md)
@@ -16,5 +16,6 @@
 
 ## FAQ
 
-* [Pochoirs](faq/faq-pochoirpp.md)
+* [Pochoirs](FAQ/faq-pochoirPP.md)
+* [Lasersaur Log](FAQ/Tools_lasersaur_Timelog.md)
 

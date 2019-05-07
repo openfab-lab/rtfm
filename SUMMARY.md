@@ -6,7 +6,7 @@
   * [The Tools](Tools\)
   * [Workshops](community/workshops.md)
   * [Appels à projet](community/appels-a-projet.md)
-* [Services](Services/services.md)
+* [Services](services.md)
 
 ## Github
 
@@ -18,3 +18,4 @@
 
 * [Pochoirs](FAQ/faq-pochoirPP.md)
 * [Lasersaur Log](FAQ/Tools_lasersaur_Timelog.md)
+

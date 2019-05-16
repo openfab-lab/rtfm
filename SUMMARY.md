@@ -16,6 +16,6 @@
 
 ## FAQ
 
-* [Pochoirs](FAQ/faq-pochoirPP.md)
-* [Lasersaur Log](FAQ/Tools_lasersaur_Timelog.md)
+* [Pochoirs](faq/faq-pochoirpp.md)
+* [Lasersaur Log](faq/Tools_lasersaur_Timelog.md)
 

@@ -17,13 +17,14 @@
 ## FAQ
 
 * [Pochoirs](faq/faq-pochoirpp.md)
-* [Lasersaur Log](FAQ\Tools_lasersaur_Timelog.md)
-
+* [Lasersaur Log](faq/tools_lasersaur_timelog.md)
 
 ## gouvernance
-* [Status]()
-* [Règlement d'ordre intérieur]()
-* [Compte-rendus](admin\README.md)
-  * [fevrier19](admin\19.02.01AG-PV.md)
-  * [Mars](admin\19.03.17CA-PV.md)
-  * [Mai](admin\19.05.31CA-PV.md)
+
+* [Status](gouvernance/status.md)
+* [Règlement d'ordre intérieur](gouvernance/reglement-dordre-interieur.md)
+* [Compte-rendus](gouvernance/admin/README.md)
+  * [Février](gouvernance/admin/19.02.01ag-pv.md)
+  * [Mars](gouvernance/admin/19.03.17ca-pv.md)
+  * [Mai](gouvernance/admin/19.05.31ca-pv.md)
+

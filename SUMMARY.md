@@ -23,4 +23,4 @@
 ## gouvernance
 * [Status]()
 * [Règlement d'ordre intérieur]()
-* [Compte-rendus]()
+* [Compte-rendus](admin\README.md)

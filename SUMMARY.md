@@ -23,7 +23,7 @@
 
 * [Status](gouvernance/status.md)
 * [Règlement d'ordre intérieur](gouvernance/reglement-dordre-interieur.md)
-* [Compte-rendus](gouvernance/admin/README.md)
+* [Publications](gouvernance/admin/README.md)
   * [Février](gouvernance/admin/19.02.01ag-pv.md)
   * [Mars](gouvernance/admin/19.03.17ca-pv.md)
   * [Mai](gouvernance/admin/19.05.31ca-pv.md)

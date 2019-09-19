@@ -1,8 +1,10 @@
-# Compte-rendus
+---
+description: 'Voilà en gros, ce qui s''est dit.'
+---
 
-Suivant la volonté de transparence et publication de l'association
+# Publications
 
-## Voici les compte-rendus
+## Compte-rendus des réunions
 
 * **01 Fev** : [Pseudo AG d'introduction d'un nouveau CA](19.02.01ag-pv.md)
 * **17 Mars** : [réunion Préparation CA](19.03.17ca-pv.md)

@@ -30,6 +30,10 @@ del list.tx
 
 [ffmpeg](https://ffmpeg.zeranoe.com/forum/viewtopic.php?t=2572), le codec pour le mp4  
 
+Et pour gérer le transcodage ffmpeg, j'utilise handbrake.  
+https://handbrake.fr/features.php
+
+preset Fast720p30, que j'ai ajusté à _fps = same as source_  
 
 ## soft
 ### streaming

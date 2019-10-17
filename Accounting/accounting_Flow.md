@@ -7,7 +7,8 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
 
 ## TODOLIST
 - [ ] **SALES**
-  - [ ] [vérifier le **carnet laser**](/Tools/Tools_lasersaur_Book.md), encoder et envoyer les factures adhoc
+  - [ ] [vérifier le **carnet laser**](/Tools/Tools_lasersaur_Book.md), encoder et envoyer les factures adhoc  
+      _-> [create invoice](/Accounting/zoho_sales.md)_  
   - [ ] valider les **factures en attente** à envoyer aux membres, aux clients si des factures récurrentes on été créée en "draft"
     - [ ] Au besoin, encoder les **nouveaux clients/membres**.   
   - [ ] Enregistrer les **factures récurrentes** pour inscription asbl et membership

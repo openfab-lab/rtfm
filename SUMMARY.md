@@ -18,6 +18,10 @@
 
 * [Pochoirs](faq/faq-pochoirpp.md)
 * [Lasersaur Log](faq/tools_lasersaur_timelog.md)
+* [Accounting](Accounting\readme.md)
+  * [workflow](Accounting\accounting_Flow.md)
+  * [vente](Accounting\zoho_sales.md)
+  * [extrait de compte](Accounting\zoho_statement.md)
 
 ## gouvernance
 
@@ -28,4 +32,3 @@
   * [Mars](gouvernance/admin/19.03.17ca-pv.md)
   * [Mai](gouvernance/admin/19.05.31ca-pv.md)
   * [Juillet](gouvernance/admin/19.07.15ca-pv.md)
-

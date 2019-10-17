@@ -17,9 +17,9 @@
 ## FAQ
 
 * [Pochoirs](faq/faq-pochoirpp.md)
-* [Lasersaur Log](faq/tools_lasersaur_timelog.md)
 * [Accounting](faq/accounting/README.md)
   * [workflow](faq/accounting/accounting_flow.md)
+  * [Lasersaur Log](faq/accounting/tools_lasersaur_timelog.md)
   * [vente](faq/accounting/zoho_sales.md)
   * [extrait de compte](faq/accounting/zoho_statement.md)
 

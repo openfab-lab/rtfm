@@ -14,11 +14,12 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
 
 * [ ] **SALES**
 
-  * [ ] [vérifier le **carnet laser**](https://github.com/openfab-lab/rtfm/tree/6a59e9ed584417da711331da37e1d10734853c2c/Tools/Tools_lasersaur_Book.md), encoder et envoyer les factures adhoc  
+  * [ ] [vérifier le **carnet laser**](https://github.com/openfab-lab/rtfm/tree/6a59e9ed584417da711331da37e1d10734853c2c/Tools/Tools_lasersaur_Book.md), encoder et envoyer les factures adhoc   
+  📑 [_create invoice_](zoho_sales.md)
 
-  _-&gt;_ [_create invoice_](zoho_sales.md)
-
-  * [ ] valider les **factures en attente** à envoyer aux membres, aux clients si des factures récurrentes on été créée en "draft"
+  * [ ] valider les **factures en attente** à envoyer aux membres, aux clients si des factures récurrentes on été créée en "draft"  
+  
+  ![image](https://user-images.githubusercontent.com/12049360/54280296-6a75e400-4597-11e9-8d99-2055785496ca.png)  
   * [ ] Au besoin, encoder les **nouveaux clients/membres**.   
   * [ ] Enregistrer les **factures récurrentes** pour inscription asbl et membership
 
@@ -28,7 +29,8 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
   * [ ] Encoder les achats déjà payé comme **Expenses**, avec en pièce jointe les justificatifs.
   * [ ] Encoder les achats à payer comme **Bills**, principalement des factures d'internet, douane, assurance, smartbe, etc... ainsi que note de frais staff.
 * [ ] Payer les **Bills** Aller sur le compte en ligne, et enregistrer les virements "Open et Overdue"
-* [ ] Télécharger **les extraits** _-&gt;_ [_import statement_](zoho_statement.md)
+* [ ] Télécharger **les extraits**   
+  📑 [_import statement_](zoho_statement.md)
 * [ ] **Catégoriser** les mouvements = match entre encodage et mouvement bancaire.
 * [ ] vérifier les factures envoyée et **activer les email de rappels**
 
@@ -65,4 +67,3 @@ Cette méthode manuelle est dépréciée. Un template spécifique est prévu lor
 
 - [ ] activer les email de rappels
 ```
-

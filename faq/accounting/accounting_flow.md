@@ -6,20 +6,22 @@
 
 ## Accounting workflow
 
-Ce qu'on appelle par là, c'est la routine mensuelle de mettre à jour les comptes, encoder les nouveaux, les achats, les ventes et payer ce qu'on doit.  
+Ce qu'on appelle par là, c'est la routine mensuelle de mettre à jour les comptes, encoder les nouveaux, les achats, les ventes et payer ce qu'on doit.
 
 Pour être certain de ne pas oublier un document par ci ou une facture par là, voici une liste des tâches à suivre pour concidérer que la mise à jours des comptes est faite et bien faite.
 
 ### TODOLIST
 
 * [ ] **SALES**
+
   * [ ] [vérifier le **carnet laser**](https://github.com/openfab-lab/rtfm/tree/6a59e9ed584417da711331da37e1d10734853c2c/Tools/Tools_lasersaur_Book.md), encoder et envoyer les factures adhoc  
 
-    _-&gt;_ [_create invoice_](zoho_sales.md)  
+  _-&gt;_ [_create invoice_](zoho_sales.md)
 
   * [ ] valider les **factures en attente** à envoyer aux membres, aux clients si des factures récurrentes on été créée en "draft"
   * [ ] Au besoin, encoder les **nouveaux clients/membres**.   
   * [ ] Enregistrer les **factures récurrentes** pour inscription asbl et membership
+
 * [ ] **PuuuuurCHASES**
   * [ ] **Collecter** les tickets et factures \(achats par bancontact, factures, achats en ligne amazon, Aliexpress, etc... \)
   * [ ] **Scanner** les docs papiers, les ajouter à la farde rouge "Achat 2019" et tout réunir sur le NAS dans `//compta/factureIN`
@@ -37,11 +39,10 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
 ~~cheat-sheet du code de la TODOLIST, copypasta de ceci dans l'issue de la tâche,~~
 
 #### Attention:
-Cette méthode manuelle est dépréciée.  Un template spécifique est prévu lors de la création d'une nouvelle issue dans le repo  [/devis-et-facturation/issues](https://github.com/openfab-lab/devis-et-facturation/issues)
+
+Cette méthode manuelle est dépréciée. Un template spécifique est prévu lors de la création d'une nouvelle issue dans le repo [/devis-et-facturation/issues](https://github.com/openfab-lab/devis-et-facturation/issues)
 
 ![newIssueTemplate](https://user-images.githubusercontent.com/12049360/67000753-b3b38680-f0d8-11e9-8b6d-15e30a35e881.png)
-
-~~~~
 
 ```text
 - [ ] **SALES**
@@ -64,3 +65,4 @@ Cette méthode manuelle est dépréciée.  Un template spécifique est prévu lo
 
 - [ ] activer les email de rappels
 ```
+

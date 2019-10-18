@@ -3,7 +3,8 @@
 ### Lasersaur book
 
 **2 sides:**  
-1. the log, just fill in your timing here. 2. the cheatSheets, look here to have some clues for settings.
+1. the log, just fill in your timing here.   
+2. the cheatSheets, look here to have some clues for settings.
 
 **REMEMBER:**  
 Members have to note their timing in the book, hanging on the right side.  
@@ -34,5 +35,5 @@ In the last column, please indicate your way of payment.
 
 ### Laser privilege will be revoked until resolution.
 
-![gif](https://i.imgur.com/Qd0BkhJ.gif)
+![](https://i.imgur.com/Qd0BkhJ.gif)
 

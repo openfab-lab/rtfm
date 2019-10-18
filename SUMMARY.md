@@ -18,6 +18,7 @@
 
 * [Fournisseurs](faq/fournisseurs.md)
 * [Pochoirs](faq/faq-pochoirpp.md)
+* [Prestation animateur](faq/prestation-animateur.md)
 * [Accounting](faq/accounting/README.md)
   * [workflow](faq/accounting/accounting_flow.md)
   * [Lasersaur Log](faq/accounting/tools_lasersaur_timelog.md)

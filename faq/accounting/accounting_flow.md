@@ -37,13 +37,14 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
 
 -&gt; wootwoot, party hard
 
-### Remarques, astuce et récompenses
+### Remarques, astuces et récompenses
 
 ~~cheat-sheet du code de la TODOLIST, copypasta de ceci dans l'issue de la tâche,~~
 
 #### Attention:
 
-Cette méthode manuelle est dépréciée. Un template spécifique est prévu lors de la création d'une nouvelle issue dans le repo [/devis-et-facturation/issues](https://github.com/openfab-lab/devis-et-facturation/issues)
+Cette méthode manuelle est dépréciée.   
+Un template spécifique est prévu lors de la création d'une nouvelle issue dans le repo [/devis-et-facturation/issues](https://github.com/openfab-lab/devis-et-facturation/issues)
 
 ![newIssueTemplate](https://user-images.githubusercontent.com/12049360/67000753-b3b38680-f0d8-11e9-8b6d-15e30a35e881.png)
 

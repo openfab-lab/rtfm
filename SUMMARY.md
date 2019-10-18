@@ -16,6 +16,7 @@
 
 ## FAQ
 
+* [Fournisseurs](faq/fournisseurs.md)
 * [Pochoirs](faq/faq-pochoirpp.md)
 * [Accounting](faq/accounting/README.md)
   * [workflow](faq/accounting/accounting_flow.md)

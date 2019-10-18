@@ -24,7 +24,7 @@ J'ai créé un tableur qui va trier et ordonner comme il faut les datas venant d
 1. **Download** last statement from Account page
 2. **Import** this .csv into the spreadsheet **xchange-BPO2ZOHO** on drive/OF-Comptabilité ![image](https://user-images.githubusercontent.com/12049360/52051422-d7876a00-2553-11e9-9a2a-2b02af18c207.png)
 3. **Sort data A&gt;X** ![image](https://user-images.githubusercontent.com/12049360/52051744-b2472b80-2554-11e9-96ff-618ba62b30f8.png)
-4. Very well, now, take care to **delete already added values!** On évite ainsi cette erreur : ![image](https://user-images.githubusercontent.com/12049360/52076556-34544600-258f-11e9-856e-e98135eebbcf.png)
+4. Very well, now, take care to **delete already added values!** On évite ainsi cette erreur :  ![image](https://user-images.githubusercontent.com/12049360/52076556-34544600-258f-11e9-856e-e98135eebbcf.png)
 5. Then, we can find everything we need to export to zoho in the **next sheet** ![image](https://user-images.githubusercontent.com/12049360/52052732-9c873580-2557-11e9-93c4-05bc1fe0aafe.png)
 6. **export to csv** ![image](https://user-images.githubusercontent.com/12049360/52052761-b759aa00-2557-11e9-9030-eeb0488d03ce.png)
 

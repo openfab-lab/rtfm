@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [You're a Free radical, run with it](free-radical.md)
 * [Community](community/README.md)
   * [The lab](community/fablab.md)
   * [The Tools](community/the-tools.md)

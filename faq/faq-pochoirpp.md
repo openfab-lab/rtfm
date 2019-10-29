@@ -11,7 +11,7 @@ Les autres matières fonctionne aussi mais conviennent mieux pour des usages uni
 _**Est-ce que c'est solide ?**_  
 Oui, il peut même s'utiliser avec le nettoyeur haute-pression.
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 ### Design et fichier?
 

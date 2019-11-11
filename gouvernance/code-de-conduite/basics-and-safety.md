@@ -6,7 +6,7 @@ description: 'En résumé: Au moins en matière de sécurité, ne soyez pas stup
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
-_Document basé sur le wiki de microfactory_
+_Document basé sur le wiki de microfactory, merci les copains._
 
 ### Le principe 
 

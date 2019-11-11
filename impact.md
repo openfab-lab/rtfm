@@ -34,7 +34,7 @@ Nous valorisons l'implication et l'émancipation des personnes au sein des équi
 
 ![](.gitbook/assets/image%20%2815%29.png)
 
-Par le partage des savoir-faire, la documentation et la promotion des licences libres, nous faciltons l'accès à l'information et reconnaissons les apports de chacuns.   
+Par le partage des savoir-faire, la documentation et la promotion des licences libres, nous facilitons l'accès à l'information et reconnaissons les apports de chacuns.   
 Parce que pour voir plus loin, nous devons monter sur les épaules de géants. Ne réinventons pas la roue, partageons les succès et les échecs. L'exploration, l'itération et la pratique sont les conditions à l'innovation.  
 
 ![](.gitbook/assets/image%20%281%29.png)
@@ -68,7 +68,7 @@ Nous nous inspirons et inspirons mutuellement.
 Bien que notre projet a une dimension très locale, communautaire, nous sommes connectés à des milliers de tutoriels et connaissances au travers d'internet.   
 Mais pouvoir accueillir une personne extérieure afin de travailler sur une mission, un projet spécifique, ou le simple moment d'un partage, nous permet d'inspirer toute la communauté et renforcer notre sentiment d'appartenance à un mouvement beaucoup plus large. Une makernation.  
 C'est un échange de savoir-faire mais surtout un échange culturel, linguistique et humain.   
-L'expérience acquise par les 2 parties \(host+guest\) est irremplaçable et ouvre la porte à des opportunités insoupsonnées.
+L'expérience acquise par les 2 parties \(host+guest\) est irremplaçable et ouvre la porte à des opportunités insoupçonnées.
 
 ![quantum entanglement](.gitbook/assets/image%20%2813%29.png)
 

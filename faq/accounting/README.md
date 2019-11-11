@@ -9,9 +9,10 @@ Un passage des tableurs chargés de formules +- efficaces vers zoho books.
 
 Le soft, en ligne, permet :
 
-* de gérer l'émission de devis, de factures, - de suivre les payments des clients avec les rappels automatique
+* de gérer l'émission de devis, de factures, 
+* de suivre les payments des clients avec les rappels automatique
 * de suivre les achats.
-* de prévoire une liste de prix, avec prix achat et vente.
+* de prévoir une liste de prix, avec prix achat et vente.
 * de faire le suivit des comptes bancaires.  
-* et biensur, de générer des bilans et une analyse personnalisée des mouvements à la demande.
+* et bien sur, de générer des bilans et une analyse personnalisée des mouvements à la demande.
 

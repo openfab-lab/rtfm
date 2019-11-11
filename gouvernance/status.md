@@ -27,3 +27,15 @@ L'association a pour objet de susciter et de promouvoir la relation étroite et 
 
 
 
+### **Art. 04 `// atelier openfab`**
+
+C’est le lieu d’ancrage local du projet, il nous permet d’y accueillir les activités et d’y développer les objectifs. ****
+
+**Description des activités du fablab, ?**
+
+### **Art. 05 `// pour combien de temps?`**
+
+L'association est conclue pour une durée illimitée. Elle peut être dissoute à tout moment dans la forme et sous les conditions requises pour les modifications aux statuts. \(\#Art. 16\)
+
+## **TITRE III - Membres, admission, démission, exclusion**
+

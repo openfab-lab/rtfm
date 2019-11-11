@@ -28,6 +28,8 @@
 
 ### Dans le lab
 
+Animaux?
+
 ### Voisinage
 
 Bienveillance de base envers le voisinage et aussi un engagement envers la commune:

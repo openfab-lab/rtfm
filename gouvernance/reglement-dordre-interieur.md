@@ -1,2 +1,0 @@
-# Règlement d'ordre intérieur
-

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Sustainable goals](impact.md)
 * [You're a Free radical, run with it](free-radical.md)
 * [Community](community/README.md)
   * [The lab](community/fablab.md)
@@ -28,8 +29,13 @@
 
 ## gouvernance
 
-* [Status](gouvernance/status.md)
-* [Règlement d'ordre intérieur](gouvernance/reglement-dordre-interieur.md)
+* [Status Syntonie asbl](gouvernance/status.md)
+* [Code de conduite](gouvernance/code-de-conduite/README.md)
+  * [Basics & safety](gouvernance/code-de-conduite/basics-and-safety.md)
+  * [Sacred space](gouvernance/code-de-conduite/sacred-space.md)
+  * [Attitude des membres](gouvernance/code-de-conduite/attitude-des-membres.md)
+  * [Modification de ce code](gouvernance/code-de-conduite/modification-de-ce-code.md)
+  * [I understand](gouvernance/code-de-conduite/i-understand.md)
 * [Publications](gouvernance/admin/README.md)
   * [Février](gouvernance/admin/19.02.01ag-pv.md)
   * [Mars](gouvernance/admin/19.03.17ca-pv.md)

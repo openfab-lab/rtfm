@@ -20,7 +20,7 @@ Issues can have endless applications. Just to exemplify, these are some cases fo
 
 ![capture](https://user-images.githubusercontent.com/12049360/50055483-eb1b7480-014f-11e9-992d-7719e489cd23.JPG)
 
-1. You can post a comment to react on any issues, juts look for this at the end of page:  
+1. You can post a comment to react on any issues, simply look for this at the end of page:  
    ![image](https://user-images.githubusercontent.com/12049360/50149717-3e123a80-02bc-11e9-8cc8-aa4004cc8eb1.png)
 
 2. To finish, just create your own issue to present yourself. ![image](https://user-images.githubusercontent.com/12049360/50149106-91838900-02ba-11e9-99e0-ac55fd3fc080.png)

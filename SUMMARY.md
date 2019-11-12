@@ -33,7 +33,8 @@
 
 * [Status Syntonie asbl](gouvernance/status.md)
 * [Code de conduite](gouvernance/code-de-conduite/README.md)
-  * [Basics & safety](gouvernance/code-de-conduite/basics-and-safety.md)
+  * [Basics & safety](gouvernance/code-de-conduite/basics-and-safety/README.md)
+    * [Safety test](gouvernance/code-de-conduite/basics-and-safety/safety-test.md)
   * [Sacred space](gouvernance/code-de-conduite/sacred-space.md)
   * [Attitude des membres](gouvernance/code-de-conduite/attitude-des-membres.md)
   * [I understand](gouvernance/code-de-conduite/i-understand.md)

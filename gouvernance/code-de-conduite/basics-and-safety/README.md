@@ -4,7 +4,7 @@ description: 'En résumé: Au moins en matière de sécurité, ne soyez pas stup
 
 # Basics & safety
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../../.gitbook/assets/image%20%2822%29.png)
 
 _Document basé sur le wiki de microfactory, merci les copains._
 
@@ -57,7 +57,7 @@ L'hôpital le plus proche est la [Clinique du Parc Léopold](http://chirec.be/nl
 
 **Power tools** can be extremely dangerous if they are used improperly. Common accidents associated with power tools include abrasions, cuts, lacerations, amputations, burns, electrocutions, and broken bones.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image%20%287%29.png)
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../../.gitbook/assets/image%20%2814%29.png)
 

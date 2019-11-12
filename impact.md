@@ -19,7 +19,7 @@
 Par un cadre d'éducation permanente, **les personnes choisissent le parcours d'apprentissage adapté à leur besoin, pratique à leur rythme et son soutenu par une communauté de pair**.   
 L'acquisition des compétences est validée par un processus de **micro-certifications** par badges \(openbadges by mozilla\), et l'interconnexion avec d'autres sites-école et leurs spécialités, sera encouragée pour développer un écosystème d'apprentissage local et global, où chacun est libre de cultiver son arbre de compétences.
 
-![https://weareopen.coop/OB101/modules/what/do/](.gitbook/assets/image%20%2823%29.png)
+![https://weareopen.coop/OB101/modules/what/do/](.gitbook/assets/image%20%2827%29.png)
 
 ###  2. **Decent work and economic development**
 
@@ -27,12 +27,12 @@ L'acquisition des compétences est validée par un processus de **micro-certific
 
 Par la recherche d'un modèle économique adapté, soutenu par un modèle de gouvernance, des outils de gestion centrés sur l'humain et des sources de revenus diversifiées, nous voulons démontrer les plus values qualitative, quantitative et les impacts sociaux apportés par la richesse des interactions complexes émergeant d'un lieu multifonctionnel et indépendant comme celui que nous développons. 
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 Par la mise en place de procédures de décision et d'organisation dites "fluide"ou "agile", nous remettons l'humain au centre de la gouvernance.  
 Nous valorisons l'implication et l'émancipation des personnes au sein des équipes, tout en nous appuyant sur des solutions logicielles en ligne pour faciliter et optimiser les processus de création. 
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 Par le partage des savoir-faire, la documentation et la promotion des licences libres, nous facilitons l'accès à l'information et reconnaissons les apports de chacuns.   
 Parce que pour voir plus loin, nous devons monter sur les épaules de géants. Ne réinventons pas la roue, partageons les succès et les échecs. L'exploration, l'itération et la pratique sont les conditions à l'innovation.  
@@ -70,5 +70,5 @@ Mais pouvoir accueillir une personne extérieure afin de travailler sur une miss
 C'est un échange de savoir-faire mais surtout un échange culturel, linguistique et humain.   
 L'expérience acquise par les 2 parties \(host+guest\) est irremplaçable et ouvre la porte à des opportunités insoupçonnées.
 
-![quantum entanglement](.gitbook/assets/image%20%2815%29.png)
+![quantum entanglement](.gitbook/assets/image%20%2819%29.png)
 

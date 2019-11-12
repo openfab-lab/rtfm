@@ -35,6 +35,8 @@
 * [Code de conduite](gouvernance/code-de-conduite/README.md)
   * [Basics & safety](gouvernance/code-de-conduite/basics-and-safety/README.md)
     * [Safety test](gouvernance/code-de-conduite/basics-and-safety/safety-test.md)
+    * [Hand Tools Safety Test](gouvernance/code-de-conduite/basics-and-safety/hand-tools-safety-test.md)
+    * [Power Tools Safety Test](gouvernance/code-de-conduite/basics-and-safety/power-tools-safety-test.md)
   * [Sacred space](gouvernance/code-de-conduite/sacred-space.md)
   * [Attitude des membres](gouvernance/code-de-conduite/attitude-des-membres.md)
   * [I understand](gouvernance/code-de-conduite/i-understand.md)

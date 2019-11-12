@@ -33,11 +33,11 @@ Emprunté à l'univers du jeu vidéo, le concept d'arbre des compétences est un
 
 Cette carte a l'avantage de se baser sur des micro-certifications, similaire aux badges chez les scouts et, contrairement à un diplome, permet une représentation complexe à l'image de la diversité de nos personnalités et de notre caractère unique.  
 
-![watch dogs \(video game\) : progression &amp; skill wheel](../../.gitbook/assets/image%20%2820%29.png)
+![watch dogs \(video game\) : progression &amp; skill wheel](../../.gitbook/assets/image%20%2824%29.png)
 
 ### 8 domaines de départ. 
 
-![Work in progress - levelUp Openfab](../../.gitbook/assets/image%20%2810%29.png)
+![Work in progress - levelUp Openfab](../../.gitbook/assets/image%20%2813%29.png)
 
 ### Ce système est régis par un code
 

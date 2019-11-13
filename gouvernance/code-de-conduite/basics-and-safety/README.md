@@ -56,3 +56,5 @@ L'hôpital le plus proche est la [Clinique du Parc Léopold](http://chirec.be/nl
 
 ![](../../../.gitbook/assets/image%20%2818%29.png)
 
+`The more you encourage safe practices, the less likely you will have to deal with damaged equipment and tools, poor work conditions, and, in the worst case scenario, injury. So, take the time to illustrate how you want your Makerspace to operate and ensure that everyone conforms to your rules.`
+

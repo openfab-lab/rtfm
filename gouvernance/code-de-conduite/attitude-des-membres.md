@@ -8,6 +8,10 @@
 
 
 
+aucun droit mais rajouter : "les membres d'honneur et bienfaiteurs seront affichés sur le site ou bénéficieront d'un cadre à OpenFab"?
+
+
+
 ### **Soulignons le positif**
 
 

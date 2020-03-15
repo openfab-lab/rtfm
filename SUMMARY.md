@@ -31,7 +31,10 @@
 
 ## gouvernance
 
-* [Status Syntonie asbl](gouvernance/status.md)
+* [Status Syntonie asbl](gouvernance/status/README.md)
+  * [TITRE I - Dénomination, siège social](gouvernance/status/titre-i-denomination-siege-social.md)
+  * [TITRE II – Objet, durée](gouvernance/status/titre-ii-objet-duree.md)
+  * [TITRE III - Membres, admission, démission, exclusion](gouvernance/status/titre-iii-membres-admission-demission-exclusion.md)
 * [Code de conduite](gouvernance/code-de-conduite/README.md)
   * [Basics & safety](gouvernance/code-de-conduite/basics-and-safety/README.md)
     * [Safety test](gouvernance/code-de-conduite/basics-and-safety/safety-test.md)

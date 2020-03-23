@@ -18,6 +18,7 @@
 
 ## FAQ
 
+* [Silhouette Cameo 3](faq/silhouette-cameo-3.md)
 * [Micro-certifications](faq/micro-certifications.md)
 * [Slack & github](faq/slack-and-github.md)
 * [Fournisseurs](faq/fournisseurs.md)

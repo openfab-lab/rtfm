@@ -18,17 +18,18 @@
 
 ## FAQ
 
-* [Silhouette Cameo 3](faq/silhouette-cameo-3.md)
-* [Micro-certifications](faq/micro-certifications.md)
 * [Slack & github](faq/slack-and-github.md)
-* [Fournisseurs](faq/fournisseurs.md)
+* [Micro-certifications](faq/micro-certifications.md)
+* [Silhouette Cameo 3](faq/silhouette-cameo-3.md)
 * [Pochoirs](faq/faq-pochoirpp.md)
 * [Prestation animateur](faq/prestation-animateur.md)
+* [Maintenance](faq/maintenance.md)
 * [Accounting](faq/accounting/README.md)
   * [workflow](faq/accounting/accounting_flow.md)
   * [Lasersaur Log](faq/accounting/tools_lasersaur_timelog.md)
   * [vente](faq/accounting/zoho_sales.md)
   * [extrait de compte](faq/accounting/zoho_statement.md)
+* [Fournisseurs](faq/fournisseurs.md)
 
 ## gouvernance
 

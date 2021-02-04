@@ -2,7 +2,7 @@
 
 [ref issue \#21](https://github.com/openfab-lab/rtfm/issues/21)
 
-**Need:** `Login banque, Login ZOHO, Access TeamDrive/OF-Compta, Access OpenfabNAS, *€-Rigueur-€*`
+**Need:** `Login banque, Login ZOHO, Access TeamDrive/OF-Compta, *€-Rigueur-€*`
 
 ## Accounting workflow
 
@@ -21,14 +21,12 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
   
   Il est possible de faire cette validation et d'envoyer les factures en vrac \(bulk\). Attention que c'est le modèle de mail automatique qui est utilisé, il n'y a pas l'étape de modification.   
 
-
   ![image](https://user-images.githubusercontent.com/12049360/106891638-47083500-66eb-11eb-8f9f-fe8f2d26604b.png)
 
-* [ ] Consulter la farde des inscriptions.  
-
-  Au besoin, encoder les **nouveaux clients/membres.** 
-
-* [ ] Enregistrer les **factures récurrentes** pour les cotisations à l'asbl.   
+  * [ ] Consulter la farde des inscriptions.    
+  Au besoin, encoder les **nouveaux clients/membres.**   
+  * [ ] Enregistrer les **factures récurrentes** pour les cotisations à l'asbl.   
+  
 * [ ] **PuuuuurCHASES \(achats\)**
   * [ ] **Collecter** les tickets et factures \(achats par bancontact, factures, achats en ligne amazon, Aliexpress, etc... \)
   * [ ] **Scanner** les docs papiers, les ajouter à la farde rouge "Achat 2019" et tout réunir sur le NAS dans `//compta/factureIN`
@@ -46,18 +44,23 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
 
 ### Remarques, astuces et récompenses
 
-~~cheat-sheet du code de la TODOLIST, copypasta de ceci dans l'issue de la tâche,~~
+1. Une session de compta doit être complète.  
+`Exceptionnellement, si une tâche est n'est pas complétée, elle doit être traitée en priorité lors de la session suivante.`  
+1. La todoliste est à prendre en référence et doit pouvoir être consultée par la suite, peu importe la méthode choisie.  
+`On y retrouve les informations: qui, quand, les tâches [x] et [ ], et la méthode d'attribution du reward`
+1. La reward est un montant fix de xxxx crrrr pour une todolist complète,   
+`proposition: montant à définir sur base du temps moyen d'une session x 34 x coeficient XP`
 
-#### Attention:
+#### Astuce github:
 
-Cette méthode manuelle est dépréciée.   
+Cette méthode manuelle est facilitée pour les utilisateurs github.   
 Un template spécifique est prévu lors de la création d'une nouvelle issue dans le repo [/devis-et-facturation/issues](https://github.com/openfab-lab/devis-et-facturation/issues)
 
 ![newIssueTemplate](https://user-images.githubusercontent.com/12049360/67000753-b3b38680-f0d8-11e9-8b6d-15e30a35e881.png)
 
-```text
+```
 - [ ] **SALES**
-  - [ ] vérifier le carnet laser, cnc et PrusaMini
+  - [ ] vérifier le carnet lasersaur, little sebastian (minilaser), cnc 3040 et PrusaMini
   - [ ] valider les factures en attente
   - [ ] encoder les nouveaux clients/membres   
   - [ ] encoder les factures récurrentes pour inscription asbl et membership

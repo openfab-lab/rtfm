@@ -39,7 +39,7 @@ Ceci se règle en haut à gauche: `Item Rates are.....`
 
 ### 7. add custom note if needed, but usualy leave like that
 
- ![image](https://user-images.githubusercontent.com/12049360/57367025-873e2a80-7188-11e9-85e3-7f701a921ef3.png) This is based on a template.
+![image](https://user-images.githubusercontent.com/12049360/57367025-873e2a80-7188-11e9-85e3-7f701a921ef3.png) This is based on a template.
 
 ### 8. check the recepient and `save` to send manually later or `save+send`
 

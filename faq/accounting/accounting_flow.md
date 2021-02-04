@@ -15,13 +15,20 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
 * [ ] **SALES \(ventes\)**
 
   * [ ] [vérifier les consommation **laser**](https://github.com/openfab-lab/rtfm/tree/6a59e9ed584417da711331da37e1d10734853c2c/Tools/Tools_lasersaur_Book.md)**saur**, **LittleSebastian** \(mini laser\), **cnc** et **PrusaMini,** puis encoder et envoyer les factures adhoc 📑 [_create invoice_](zoho_sales.md)
-  * [ ] valider les **factures en attente** à envoyer aux membres, et aux clients si des factures récurrentes ont été créées en "draft"
+  * [ ] valider les **factures en attente** à envoyer aux membres, et aux clients si des factures récurrentes ont été créées en "draft". 
 
-  ![image](https://user-images.githubusercontent.com/12049360/54280296-6a75e400-4597-11e9-8d99-2055785496ca.png)
+  ![image](https://user-images.githubusercontent.com/12049360/54280296-6a75e400-4597-11e9-8d99-2055785496ca.png)  
+  
+  Il est possible de faire cette validation et d'envoyer les factures en vrac \(bulk\). Attention que c'est le modèle de mail automatique qui est utilisé, il n'y a pas l'étape de modification.   
 
-  * [ ] Au besoin, encoder les **nouveaux clients/membres**.   
-  * [ ] Enregistrer les **factures récurrentes** pour les inscriptions à l'asbl et les cotisations mensuelles 
 
+  ![image](https://user-images.githubusercontent.com/12049360/106891638-47083500-66eb-11eb-8f9f-fe8f2d26604b.png)
+
+* [ ] Consulter la farde des inscriptions.  
+
+  Au besoin, encoder les **nouveaux clients/membres.** 
+
+* [ ] Enregistrer les **factures récurrentes** pour les cotisations à l'asbl.   
 * [ ] **PuuuuurCHASES \(achats\)**
   * [ ] **Collecter** les tickets et factures \(achats par bancontact, factures, achats en ligne amazon, Aliexpress, etc... \)
   * [ ] **Scanner** les docs papiers, les ajouter à la farde rouge "Achat 2019" et tout réunir sur le NAS dans `//compta/factureIN`

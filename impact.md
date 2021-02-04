@@ -19,7 +19,7 @@
 Par un cadre d'éducation permanente, **les personnes choisissent le parcours d'apprentissage adapté à leur besoin, pratique à leur rythme et son soutenu par une communauté de pair**.   
 L'acquisition des compétences est validée par un processus de **micro-certifications** par badges \(openbadges by mozilla\), et l'interconnexion avec d'autres sites-école et leurs spécialités, sera encouragée pour développer un écosystème d'apprentissage local et global, où chacun est libre de cultiver son arbre de compétences.
 
-![https://weareopen.coop/OB101/modules/what/do/](.gitbook/assets/image%20%2827%29.png)
+![https://weareopen.coop/OB101/modules/what/do/](.gitbook/assets/image%20%2827%29%20%283%29.png)
 
 ###  2. **Decent work and economic development**
 
@@ -37,7 +37,7 @@ Nous valorisons l'implication et l'émancipation des personnes au sein des équi
 Par le partage des savoir-faire, la documentation et la promotion des licences libres, nous facilitons l'accès à l'information et reconnaissons les apports de chacuns.   
 Parce que pour voir plus loin, nous devons monter sur les épaules de géants. Ne réinventons pas la roue, partageons les succès et les échecs. L'exploration, l'itération et la pratique sont les conditions à l'innovation.  
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 ###  3. **Innovation and infrastructure**
 

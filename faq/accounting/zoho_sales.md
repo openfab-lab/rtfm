@@ -31,7 +31,7 @@ this should be automaticly defined from customer profile. sauf exception. ![imag
 Attention aux montants tvac \(tax inclusive\) ou htva \(tax exclusive\), il est parfois plus simple de forcer les montants en tvac pour éviter de devoir calculer un montant connu tvac.  
 Ceci se règle en haut à gauche: `Item Rates are.....`
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![image](https://user-images.githubusercontent.com/12049360/106889942-ff80a980-66e8-11eb-9d39-7f3912eb41df.png)
 
 ### 6. double check the amount and total
 

@@ -6,9 +6,9 @@ Si le devis est accepté, il est converti en facture, elle est envoyée au clien
 
 ![zoho sales](https://user-images.githubusercontent.com/12049360/52078228-fbb66b80-2592-11e9-9d9d-030d1fa10a9c.png)
 
-## Création d'un devis - "Estimate"
+## Création d'un devis "Estimate +" ou d'une facture "Invoice +"
 
-La création d'un devis ou d'une facture \(invoice\) est identique.
+La création d'un devis \(Estimate\) ou d'une facture \(invoice\) est identique.
 
 ### 1. click on the + sign
 
@@ -28,7 +28,10 @@ this should be automaticly defined from customer profile. sauf exception. ![imag
 
 ### 5. add as much items and quantity as needed.
 
-![image](https://user-images.githubusercontent.com/12049360/57366898-39c1bd80-7188-11e9-8877-71868b7c201f.png)
+Attention aux montants tvac \(tax inclusive\) ou htva \(tax exclusive\), il est parfois plus simple de forcer les montants en tvac pour éviter de devoir calculer un montant connu tvac.  
+Ceci se règle en haut à gauche: `Item Rates are.....`
+
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 ### 6. double check the amount and total
 
@@ -36,7 +39,7 @@ this should be automaticly defined from customer profile. sauf exception. ![imag
 
 ### 7. add custom note if needed, but usualy leave like that
 
-This is based on a template. ![image](https://user-images.githubusercontent.com/12049360/57367025-873e2a80-7188-11e9-85e3-7f701a921ef3.png)
+ ![image](https://user-images.githubusercontent.com/12049360/57367025-873e2a80-7188-11e9-85e3-7f701a921ef3.png) This is based on a template.
 
 ### 8. check the recepient and `save` to send manually later or `save+send`
 

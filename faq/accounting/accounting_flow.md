@@ -14,7 +14,7 @@ Pour être certain de ne pas oublier un document par ci ou une facture par là, 
 
 * [ ] **SALES \(ventes\)**
 
-  * [ ] [vérifier le **carnet laser**](https://github.com/openfab-lab/rtfm/tree/6a59e9ed584417da711331da37e1d10734853c2c/Tools/Tools_lasersaur_Book.md), **cnc** et **PrusaMini** puis encoder et envoyer les factures adhoc 📑 [_create invoice_](zoho_sales.md)
+  * [ ] [vérifier les consommation **laser**](https://github.com/openfab-lab/rtfm/tree/6a59e9ed584417da711331da37e1d10734853c2c/Tools/Tools_lasersaur_Book.md)**saur**, **LittleSebastian** \(mini laser\), **cnc** et **PrusaMini,** puis encoder et envoyer les factures adhoc 📑 [_create invoice_](zoho_sales.md)
   * [ ] valider les **factures en attente** à envoyer aux membres, et aux clients si des factures récurrentes ont été créées en "draft"
 
   ![image](https://user-images.githubusercontent.com/12049360/54280296-6a75e400-4597-11e9-8d99-2055785496ca.png)

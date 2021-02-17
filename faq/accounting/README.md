@@ -13,6 +13,6 @@ Le software en ligne, permet :
 * de suivre les paiements des clients avec les rappels automatique
 * de suivre les achats.
 * de prévoir une liste de prix, avec prix achat et vente.
-* de faire le suivit des comptes bancaires.  
-* et bien sur, de générer des bilans et une analyse personnalisée des mouvements à la demande.
+* de faire le suivi des comptes bancaires.  
+* et bien sûr, de générer des bilans et une analyse personnalisée des mouvements à la demande.
 

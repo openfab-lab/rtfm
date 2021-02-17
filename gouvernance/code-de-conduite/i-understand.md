@@ -1,6 +1,6 @@
 # I understand
 
-### **Rgpd et communication de changement d’info**
+### **RGPD et communication de changement d’info**
 
 **Registre des membres?**  
 via la db produite par le système d'enregistrement.   
@@ -28,7 +28,7 @@ C'est en ligne mais pour la consulter, vous devez nous en faire la demande par e
 
 **Est considéré comme démissionnaire:** 
 
-* Le membre qui ne paye pas les cotisations qu'il est tenus de payer, dans le mois du rappel qui leur est adressé par courrier électronique.
+* Le membre qui ne paye pas les cotisations qu'il est tenu de payer, dans le mois du rappel qui lui est adressé par courrier électronique.
 * Le membre effectif ou adhérent qui ne remplit plus les conditions d’admission.
 * Le membre effectif qui n’assiste pas ou qui ne se fait pas représenter à trois assemblées générales consécutives.
 

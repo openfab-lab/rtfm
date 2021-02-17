@@ -28,7 +28,7 @@ _Côté Pont VanPraat. Pas encore commandé chez eux. Demande d'info par tel ou 
 **Nordic:**  
 [http://houthandelnordic.be/](http://houthandelnordic.be/)  
 02/ 216 81 03  
-_Un membre y a acheté un triplex 3mm qui fonctionne bien à la découpe laser. Il pensait au bois d'érable mais ils disent ne pas avoir ça de stock. Il faudrait demander des échantillons pour valider quel essence de bois._
+_Un membre y a acheté un triplex 3mm qui fonctionne bien à la découpe laser. Il pensait au bois d'érable mais ils disent ne pas avoir ça de stock. Il faudrait demander des échantillons pour valider quelle essence de bois._
 
 **Lochten:**  
 [http://www.lochten.be/](http://www.lochten.be/)  
@@ -49,7 +49,7 @@ _Zone Ch de Mons. J'ai entendu dire qu'ils avaient un grand choix en stock. Je n
 
 **Laege:**  
 [http://www.lagae.be/](http://www.lagae.be/)  
-056/ 22 14 29 _D'après Charlie et leur site semble le confirmer, ils ont un bon choix de panneaux. Peut-être une source de qualité et de panneaux coffrage à la surface hexagonale. Charlie l'a utilisé dans un de ses design et c'est très joli._
+056/ 22 14 29 _D'après Charlie et leur site semble le confirmer, ils ont un bon choix de panneaux. Peut-être une source de qualité et de panneaux coffrage à la surface hexagonale. Charlie l'a utilisé dans un de ses designs et c'est très joli._
 
 ![betonplex motif hexa](https://user-images.githubusercontent.com/12049360/67086260-9ea22a80-f1a0-11e9-983f-6c9119442d8e.png)
 
@@ -101,11 +101,11 @@ Paul Gilsonlaan 358, 1620 Drogenbos
 **Urbia**  
 [https://www.urbia.be/](https://www.urbia.be/)  
 02 345 89 72  
-_spécialiste maquetiste. Très bon retour des usagers._
+_spécialiste maquettiste. Très bon retour des usagers._
 
 **plexy reine**  
 [http://plexyreine.be/](http://plexyreine.be/)  
-_Je les mentionne mais je n'ai eu que des mauvais retour, principalement sur leur désagréables services._
+_Je les mentionne mais je n'ai eu que des mauvais retours, principalement sur leur désagréables services._
 
 **vink**  
 [http://fr.vink.be/](http://fr.vink.be/)  
@@ -141,7 +141,7 @@ _Attention: probablement 50€ de livraison; vu dans les com:_
 
 **Gravierbedarf**  
 [https://www.gravierbedarf.de/LMM6018-25/fr](https://www.gravierbedarf.de/LMM6018-25/fr)  
-_Tape chimique, reactif au laser, pour la gravure sur metal._
+_Tape chimique, réactif au laser, pour la gravure sur metal._
 
 ## Mèches CNC
 
@@ -177,7 +177,7 @@ Clos de la Giberne, 3
 
 **Exp-Tech**  
 [http://www.exp-tech.de/](http://www.exp-tech.de/)  
-_En allemagne, rapide, prix correctes._
+_En Allemagne, rapide, prix correctes._
 
 **Watterott**  
 [http://www.watterott.com/](http://www.watterott.com/)  

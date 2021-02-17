@@ -39,12 +39,12 @@ We are building a living fablab, more sustainable and resilient to embrace chang
 ## How
 
 **OpenFab n'est pas un shop**, pas une entreprise mais une association, c'est **un collectif de makers** qui mutualisent un espace, levelup leurs compétences grâce à l'aide de la communauté.  
-Ils peuvent ensuite choisir de partager leur savoir-faires en animant des workshops ou en fournissant un service.
+Ils peuvent ensuite choisir de partager leur savoir-faire en animant des workshops ou en fournissant un service.
 
 Nous partageons mais tout à un prix  
 ![image](https://user-images.githubusercontent.com/12049360/50536443-01b0cb00-0b55-11e9-88f8-e00be3997ce7.png)
 
-Pas d'employé, une gestion communautaire et les montants demandés se veulent juste et ont pour objectif de financer les charges communes \(le loyer, les machines, la gestion et le développement d'activités\).
+Pas d'employé, une gestion communautaire et les montants demandés se veulent justes et ont pour objectif de financer les charges communes \(le loyer, les machines, la gestion et le développement d'activités\).
 
 ## Pour rejoindre la communauté
 
@@ -58,9 +58,9 @@ So bring your skills’ real value to the table, not just your nationality.
 
 **3 cas de figure.**
 
-1. Tu as pour habitude de relever les defis, chercher après tes solutions. Pas besoin qu'on te prenne par la main, **tu sais ce que tu as besoin** mais tu as un projet en tête mais il te manque place, outils ou simplement une communauté avec qui parler de ton projet. That's cool. Le fablab est parfais pour toi. [continue ici](community/fablab.md)
-2. Chercher par toi même te saoule, mais tu aimerai découvrir des nouvelles technologies et **tu préfère être accompagné dans la réalisation** d'un projet qui fonctionne. Génial, on a un paquet de membres qui aime partager leur passion. [les workshops seront parfait pour toi](./#Workshops)  
-3. 2 bras gauches, pas le tps ou simplement **envie de supporter des artisans locaux**. On peut s'occuper de certains jobs pour vous.  
+1. Tu as pour habitude de relever les défis, chercher après tes solutions. Pas besoin qu'on te prenne par la main, **tu sais ce que tu as besoin** mais tu as un projet en tête et il te manque place, outils ou simplement une communauté avec qui parler de ton projet. That's cool. Le fablab est parfait pour toi. [continue ici](community/fablab.md)
+2. Chercher par toi-même te saoule, mais tu aimerais découvrir des nouvelles technologies et **tu préfères être accompagné dans la réalisation** d'un projet qui fonctionne. Génial, on a un paquet de membres qui aiment partager leur passion. [les workshops seront parfaits pour toi](./#Workshops)  
+3. 2 bras gauches, pas le tps ou simplement **envie de supporter des artisans locaux**. On peut s'occuper de certains jobs pour toi.  
 
    Aujourd'hui, la demande la plus courante est [l'enseigne personnalisée](./#Services).
 

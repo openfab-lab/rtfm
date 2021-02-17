@@ -5,8 +5,8 @@
 ### Matières?
 
 _**Quelle matière peut-on utiliser pour les pochoirs ?**_  
-Nous pouvons découper des pochoirs en cartons, en bois, en plexi ou même papier ou textile mais nous obtenons les meilleurs résultat avec le polypropylène \(ex: matière plastique des couvertures de cahier ATOMA\).  
-Les autres matières fonctionne aussi mais conviennent mieux pour des usages uniques ou spécifiques.
+Nous pouvons découper des pochoirs en cartons, en bois, en plexi ou même papier ou textile mais nous obtenons les meilleurs résultats avec le polypropylène \(ex: matière plastique des couvertures de cahier ATOMA\).  
+Les autres matières fonctionnent aussi mais conviennent mieux pour des usages uniques ou spécifiques.
 
 _**Est-ce que c'est solide ?**_  
 Oui, il peut même s'utiliser avec le nettoyeur haute-pression.
@@ -19,9 +19,9 @@ _**Est-ce que c'est précis ?**_
 La technique du pochoir a ses avantages et ses inconvénients. Il ne faut pas espérer avoir la qualité et le détail d'un stickers ou d'une sérigraphie, mais un design adapté donne un rendu très satisfaisant.
 
 _**Je ne suis pas à l'aise avec les logiciels de dessin. Est-ce que vous pouvez m'aider?**_  
-Oui, bien sur.  
+Oui, bien sûr.  
 Si vous avez besoin d'aide supplémentaire pour le design ou la préparation des fichiers.  
-Nous pouvons prendre le temps d'évaluer le projet avec vous,  
+Nous pouvons prendre le temps d'évaluer le projet avec vous.  
 Un premier rendez-vous d'1h permet de passer en revue le contexte et le design, ce qui évite les incompréhensions de communications par mail.  
 Puis si nécessaire, nous proposons un accompagnement sous la forme d'une étude de projet avec prototype et validation étapes par étapes.  
 Le tarif horaire de 55€/h est appliqué.  
@@ -34,7 +34,7 @@ Un fichier vectoriel à l'échelle 1/1, en mm, au format **.svg, .pdf, .dxf, .ai
 
 _**Quel est le délai de production ?**_  
 Un délai moyen d'une semaine est à prévoir selon les quantités commandées.  
-Nous ne sommes pas un magasin, mais un collectif de maker.  
+Nous ne sommes pas un magasin, mais un collectif de makers.  
 À ce titre, nous sommes dépendants de la disponibilité des machines et des makers qualifiés.
 
 ### Combien ça coûte?
@@ -45,7 +45,7 @@ Une estimation du prix est possible sur base du design uniquement, MAIS voici à
 Ce forfait est appliqué toutes les 3h de découpe, ce sont des actions à répéter régulièrement par sécurité.
 
 **Auquel s'ajoute le prix de la découpe** qui est calculé en fonction du dessin vectoriel final, sur la base de 55€/h htva.  
-Le temps étant proportionnel à la vitesse de découpe multipliée par la distance parcourue.
+Le temps étant proportionnel à l'inverse de la vitesse de découpe multipliée par la distance parcourue.
 
 **Ne pas oublier le coût des matériaux,** dans notre exemple la feuille 0.8mm de PP en 1000x650mm est facturée 8€. Il est accepté de fournir vos matériaux, mais attention, certains matériaux sont interdit comme les matières contenant du chlore, par exemple: PVC, Vinyl ou simili-cuir.
 
@@ -59,14 +59,14 @@ Dans le cas de correction ou plus, le tarif horaire est applicable. \(55€/h ht
 * Le contexte du pochoir? Pour pouvoir vous guider et conseiller de manière adaptée, nous avons besoin de comprendre vos objectifs.  
 * Pour quand?
 * Dans quelles quantités?
-* Et le fichier vectoriel aux dimensions souhaitées, en millimetre.
+* Et le fichier vectoriel aux dimensions souhaitées, en millimètres.
 
 > Au moins qu'il y a des incertitudes, au plus que nous pouvons être efficaces dans notre réponse.  
 > _-SAV belge-_
 
 **Pour s'assurer de la qualité du résultat, il est important de valider une série de détails:**
 
-* que le fichier est bien optimisé pour la découpe du pochoir au laser,
+* que le fichier soit bien optimisé pour la découpe du pochoir au laser,
 * que les réglages soient parfaitement adapté aux résultats souhaités,
 * que le fichier soit optimisé pour le process de production à la chaîne.    
 
@@ -83,8 +83,8 @@ Mais vu que c'est pour un pochoir, ce n'est pas un problème car la technique de
 
 #### Quels sont les éléments qui impactent sur la netteté du résultat?
 
-* Le niveau de détail du dessin est important bien sur. Simplifiez au maximum le tracé. Tout ce qui est plus petit que 2 ou 3mm a de fortes chances de ne pas se voir.  
-* La distance entre le pochoir et la surface à peindre, impacte la netteté.
+* Le niveau de détail du dessin est important bien sûr. Simplifiez au maximum le tracé. Tout ce qui est plus petit que 2 ou 3mm a de fortes chances de ne pas se voir.  
+* La distance entre le pochoir et la surface à peindre impacte la netteté.
 * Et les compétences de l'artiste et la distance à laquelle on spray. \(trop près ça coule et ça colle, trop loin et/ou trop de vent et on peint notre pantalon, etc... \)
 
 #### Les LOGOS et leur lisibilité.

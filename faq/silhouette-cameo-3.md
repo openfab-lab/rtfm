@@ -32,9 +32,9 @@ To install With [Awesome sauce for Arch ](https://github.com/fablabnbg/inkscape-
 
 Comme pour le laser, mise en place sur une référence en haut à gauche. Plaque 12'x12' = 30x30cm.
 
-On sélectionne le chemin à couper. _note: les chemins non sélectionné ne sont pas envoyé à la machine_ ![image](https://user-images.githubusercontent.com/12049360/77316772-4a304780-6d0a-11ea-8109-ce978833a938.png)
+On sélectionne le chemin à couper. _note: les chemins non sélectionnés ne sont pas envoyés à la machine_ ![image](https://user-images.githubusercontent.com/12049360/77316772-4a304780-6d0a-11ea-8109-ce978833a938.png)
 
-J'ai mis un petit offset mais ça peut se prévoir dans le svg. Mais bon, en gros, j'ai suivit [le tuto de base](https://github.com/fablabnbg/inkscape-silhouette#usage)
+J'ai mis un petit offset mais ça peut se prévoir dans le svg. Mais bon, en gros, j'ai suivi [le tuto de base](https://github.com/fablabnbg/inkscape-silhouette#usage)
 
 ![image](https://user-images.githubusercontent.com/12049360/77316829-646a2580-6d0a-11ea-810d-150991008bf3.png)
 

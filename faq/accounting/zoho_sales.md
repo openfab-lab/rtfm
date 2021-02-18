@@ -2,7 +2,7 @@
 
 De manière générale, un client va demander une offre ou devis, c'est notre estimation du coût de production d'un projet.  
 On peut considérer ça comme un brouillon temporaire de la facture, sujet à négociation ou ajustement.  
-Si le devis est accepté, il est converti en facture, elle est envoyée au client et son statut est mis "en attente de payement" pour son suivit ultérieur.
+Si le devis est accepté, il est converti en facture, elle est envoyée au client et son statut est mis "en attente de payement" pour son suivi ultérieur.
 
 ![zoho sales](https://user-images.githubusercontent.com/12049360/52078228-fbb66b80-2592-11e9-9d9d-030d1fa10a9c.png)
 
@@ -20,7 +20,7 @@ La création d'un devis \(Estimate\) ou d'une facture \(invoice\) est identique.
 
 ### 3. number and date
 
-this should be automaticly defined from customer profile. sauf exception. ![image](https://user-images.githubusercontent.com/12049360/57366820-11d25a00-7188-11e9-9328-aa1faa98d189.png)
+this should be automatically defined from customer profile. sauf exception. ![image](https://user-images.githubusercontent.com/12049360/57366820-11d25a00-7188-11e9-9328-aa1faa98d189.png)
 
 ### 4. select salesperson
 

@@ -38,8 +38,8 @@ preset Fast720p30, que j'ai ajusté à _fps = same as source_
 ## soft
 ### streaming
 Pour une diffusion de contenu live, il faut distinguer 2 étapes séparées.  
-1. le layout, ou habillage d'écran. Le plus souvent avec OBS, on compose le contenu de la diffusion. Titre, ecran de pause, chat, mixage multicam et greenkey (fond vert).
-2. la platerforme de streaming, de diffusion. Soit twitch ou youtube dans notre cas.  
+1. le layout, ou habillage d'écran. Le plus souvent avec OBS, on compose le contenu de la diffusion. Titre, écran de pause, chat, mixage multicam et greenkey (fond vert).
+2. la plateforme de streaming, de diffusion. Soit twitch ou youtube dans notre cas.  
 
 #### obs studio
 [site officiel obs-project](https://obsproject.com/fr)  
@@ -53,8 +53,8 @@ Pour une diffusion de contenu live, il faut distinguer 2 étapes séparées.
 
 ### editing
 Le montage peut être nécessaire pour une production d'un tuto video plus élaboré.  
-Quelques solutions existent, Premiere, Avid, Vegas, etc... bcp de solutions pro et payante.   
-Ici, j'ai testé DaVinci et même si j'ai entendu des pros s'en plaindre et se moquer, ma fois, ça marche et c'est gratuit. Très bien pour ce qu'on veut en faire.  
+Quelques solutions existent, Premiere, Avid, Vegas, etc... bcp de solutions pro et payantes.   
+Ici, j'ai testé DaVinci et même si j'ai entendu des pros s'en plaindre et se moquer, ma foi, ça marche et c'est gratuit. Très bien pour ce qu'on veut en faire.  
 
 #### DaVinci Resolve
 pas opensource mais puissant et version gratuite.  

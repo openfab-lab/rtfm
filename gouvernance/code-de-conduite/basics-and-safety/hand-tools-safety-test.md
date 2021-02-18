@@ -5,7 +5,7 @@
 > **Hand tools** are non-powered tools. They include wrenches, hammers, chisels, screw drivers, and other hand-operated mechanisms. Even though hand tool injuries tend to be less severe than power tool injuries, hand tool injuries are more common. Because people take everyday hand tools for granted, simple precautions for safety are easily forgotten.
 
 Le test suivant est conçu pour évaluer votre compréhension des pratiques lors de l'utilisation de l'outillage à main.  
-Répondez aux questions du mieux que vous le pouvez. Vrai/faux et expliquer 
+Répondez aux questions du mieux que vous le pouvez. Vrai/faux et expliquez 
 
 1. V/F : Il n'y a pas de mal à utiliser vos mains pour tenir votre travail en place lorsqu'il s'agit d'un limage ou d'un léger ponçage.  a. Répondez :  b. Expliquez-moi : 
 2. V/F : Vous pouvez utiliser un tournevis à fente comme levier.  a. Répondez :  b. Expliquez-moi : 

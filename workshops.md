@@ -1,5 +1,5 @@
 ---
-description: le catalogue des workshops proposé
+description: le catalogue des workshops proposés
 ---
 
 # Workshops

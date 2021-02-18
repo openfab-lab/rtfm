@@ -16,9 +16,9 @@ aucun droit mais rajouter : "les membres d'honneur et bienfaiteurs seront affich
 
 
 
-## **Ce qui ne sera pas tolérer**
+## **Ce qui ne sera pas toléré**
 
-### **Comportement inacceptables**
+### **Comportements inacceptables**
 
 Si un membre fait n'importe quoi et vend une production foireuse, celà n'engage en rien Openfab. 
 

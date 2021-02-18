@@ -16,7 +16,7 @@
 
 > Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
 
-Par un cadre d'éducation permanente, **les personnes choisissent le parcours d'apprentissage adapté à leur besoin, pratique à leur rythme et son soutenu par une communauté de pair**.   
+Par un cadre d'éducation permanente, **les personnes choisissent le parcours d'apprentissage adapté à leur besoin, pratiquent à leur rythme et sont soutenus par une communauté de pairs**.   
 L'acquisition des compétences est validée par un processus de **micro-certifications** par badges \(openbadges by mozilla\), et l'interconnexion avec d'autres sites-école et leurs spécialités, sera encouragée pour développer un écosystème d'apprentissage local et global, où chacun est libre de cultiver son arbre de compétences.
 
 ![https://weareopen.coop/OB101/modules/what/do/](.gitbook/assets/image%20%2827%29%20%283%29.png)
@@ -25,7 +25,7 @@ L'acquisition des compétences est validée par un processus de **micro-certific
 
 > Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
 
-Par la recherche d'un modèle économique adapté, soutenu par un modèle de gouvernance, des outils de gestion centrés sur l'humain et des sources de revenus diversifiées, nous voulons démontrer les plus values qualitative, quantitative et les impacts sociaux apportés par la richesse des interactions complexes émergeant d'un lieu multifonctionnel et indépendant comme celui que nous développons. 
+Par la recherche d'un modèle économique adapté, soutenu par un modèle de gouvernance, des outils de gestion centrés sur l'humain et des sources de revenus diversifiées, nous voulons démontrer les plus-values qualitatives, quantitatives et les impacts sociaux apportés par la richesse des interactions complexes émergeant d'un lieu multifonctionnel et indépendant comme celui que nous développons. 
 
 ![](.gitbook/assets/image%20%2823%29.png)
 
@@ -53,9 +53,9 @@ Openfab, bien plus qu'une boite à outils numérique à Bruxelles.
 
 > Goal 12: Ensure sustainable consumption and production patterns
 
-Par la sensibilisation du public aux technologies, par l'accès aux machines, par la transparence des procédures de fabrication, le public accède à la boite noir.  
-Une production durable commence par soi-même, par l'éducation et la prise de meilleure décision dans nos comportements de consommation.  
-L'accès à une unité de fabrication locale, à un club de makers, est une des marches vers plus de consommateur durable et plus de productions locales.
+Par la sensibilisation du public aux technologies, par l'accès aux machines, par la transparence des procédures de fabrication, le public accède à la boite noire.  
+Une production durable commence par soi-même, par l'éducation et la prise de meilleures décisions dans nos comportements de consommation.  
+L'accès à une unité de fabrication locale, à un club de makers, est une des marches vers plus de consommation durable et plus de productions locales.
 
 ![Fabcity - Rescaling global manufacturing](.gitbook/assets/image%20%283%29.png)
 

@@ -24,6 +24,7 @@ description: révision 2020
   * [Art. 10 `// registre`](titre-iii-membres-admission-demission-exclusion.md#art-10-registre)
 
 *  TITRE IV - Assemblée générale
+
   * [Art. 11 `// présidence`](titre-iv-assemblee-generale.md#art-11-presidence)
   * [Art. 12 `// son pouvoir`](titre-iv-assemblee-generale.md#art-12-son-pouvoir)
   * [Art. 13 `// quand se réunir ?`](titre-iv-assemblee-generale.md#art-13-quand-se-reunir)
@@ -33,6 +34,7 @@ description: révision 2020
   * [Art. 17 `// registre, PV et publication`](titre-iv-assemblee-generale.md#art-17-registre-pv-et-publications)
 
 * TITRE V - Conseil d'administration
+
   * [Art. 18 `// composition et durée`](titre-v-conseil-d-administration.md#art-18-composition-et-duree)
   * [Art. 19 `// expiration du mandat`](titre-v-conseil-d-administration.md#art-19-expiration-du-mandat)
   * [Art. 20 `// ses fonctions`](titre-v-conseil-d-administration.md#art-20-ses-fonctions)
@@ -47,14 +49,18 @@ description: révision 2020
   * [Art. 29 `// autres?`](titre-v-conseil-d-administration.md#art-29-autres)
 
 * TITRE VI - Règlement d'ordre intérieur
+
   * [Art. 30 `// RTFM`](titre-vi-reglement-d-ordre-interieur.md#art-30-reglement-d-ordre-interieur)
 
 * TITRE VII - Budgets et comptes
+
   * [Art. 31 `// exercice social`](titre-vii-budgets-et-comptes.md#art-31-exercice-social)
 
 * TITRE VIII - Dissolution et liquidation
+
   * [Art. 32 `// décision`](titre-viii-dissolution-et-liquidation.md#art-32-decision)
   * [Art. 33 `// affectation`](titre-viii-dissolution-et-liquidation.md#art-33-affectation)
 
 * TITRE IX - Dispositions diverses
+
   * [Art. 34 `// compétences résiduelles`](titre-ix-dispositions-diverses.md#art-34-competences-residuelles)

@@ -30,7 +30,7 @@ description: révision 2020
   * [Art. 13 `// quand se réunir ?`](titre-iv-assemblee-generale.md#art-13-quand-se-reunir)
   * [Art. 14 `// droits des membres`](titre-iv-assemblee-generale.md#art-14-droits-des-membres)
   * [Art. 15 `// procédure et condition de vote`](titre-iv-assemblee-generale.md#art-15-procedure-et-condition-de-vote)
-  * [Art. 16 `// validité des décisions`](titre-iv-assemblee-generale.md#art-16-validite des decisions)
+  * [Art. 16 `// validité des décisions`](titre-iv-assemblee-generale.md#art-16-validite-des-decisions)
   * [Art. 17 `// registre, PV et publication`](titre-iv-assemblee-generale.md#art-17-registre-pv-et-publications)
 
 * TITRE V - Conseil d'administration

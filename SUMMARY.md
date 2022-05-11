@@ -37,6 +37,13 @@
   * [TITRE I - Dénomination, siège social](gouvernance/status/titre-i-denomination-siege-social.md)
   * [TITRE II – Objet, durée](gouvernance/status/titre-ii-objet-duree.md)
   * [TITRE III - Membres, admission, démission, exclusion](gouvernance/status/titre-iii-membres-admission-demission-exclusion.md)
+  * [TITRE IV - Assemblée générale](gouvernance/status/titre-iv-assemblee-generale.md)
+  * [TITRE V - Conseil d'administration](gouvernance/status/titre-v-conseil-d-administration.md)
+  * [TITRE VI - Règlement d'ordre intérieur](gouvernance/status/titre-vi-reglement-d-ordre-interieur.md)
+  * [TITRE VII - Budgets et comptes](gouvernance/status/titre-vii-budgets-et-comptes.md)
+  * [TITRE VIII - Dissolution et liquidation](gouvernance/status/titre-viii-dissolution-et-liquidation.md)
+  * [TITRE IX - Dispositions diverses](titre-ix-dispositions-diverses.md)
+
 * [Code de conduite](gouvernance/code-de-conduite/README.md)
   * [Basics & safety](gouvernance/code-de-conduite/basics-and-safety/README.md)
     * [Safety test](gouvernance/code-de-conduite/basics-and-safety/safety-test.md)

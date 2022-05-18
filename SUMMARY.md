@@ -29,6 +29,8 @@
   * [Lasersaur Log](faq/accounting/tools_lasersaur_timelog.md)
   * [vente](faq/accounting/zoho_sales.md)
   * [extrait de compte](faq/accounting/zoho_statement.md)
+* [Tâches](faq/tasks/README.md)
+  * [Bulle à verre](faq/tasks/glassbin.md)
 * [Fournisseurs](faq/fournisseurs.md)
 
 ## gouvernance

@@ -10,7 +10,7 @@ Le test suivant est conçu pour évaluer votre compréhension des bonnes pratiqu
 
 #### Répondez aux questions du mieux que vous le pouvez. Vrai/faux et expliquer
 
-1. V/F : Les lunettes de sécurité et les lunettes de protection offrent le même type de protection. a. Répondez : b. Expliquez-moi :
+1. V/F : Les lunettes de sécurité et les masques de protection offrent le même type de protection. a. Répondez : b. Expliquez-moi :
 2. V/F : La protection oculaire ne doit être portée que lorsque l'on travaille avec des outils qui sont potentiellement dangereux. a. Répondez : b. Expliquez-moi :
 3. V/F : Les petites coupures et éraflures ne nécessitent pas l'attention de l'instructeur/superviseur. a. Répondez : b. Expliquez-moi :
 4. V/F : Il est acceptable de laisser une surface de travail encombrée lorsqu'elle n'est pas utilisée. a. Répondez : b. Expliquez-moi :
@@ -19,7 +19,9 @@ Le test suivant est conçu pour évaluer votre compréhension des bonnes pratiqu
 7. V/F : Les appareils électroniques tels que les fers à souder devraient être laissés branchés si quelqu'un d'autre attend de les utiliser. a. Répondez : b. Expliquez-moi :
 8. V/F : Les outils doivent être rangés dans un endroit organisé. a. Répondez : b. Expliquez-moi :
 9. V/F : Il faut demander de l'aide chaque fois qu'il s'agit de gros matériaux, d'équipement ou de surfaces de travail qui doivent être déplacés. a. Répondez : b. Expliquez-moi :
-10. V/F : Lorsque vous stockez une étagère, les articles les plus lourds doivent être placés sur le fond. a. Répondez : b. Expliquez-moi :
+10. V/F : Lorsque vous stockez une étagère, les articles les plus lourds doivent être placés sur le bas et/ou en retrait. a. Répondez : b. Expliquez-moi :
+11. V/F : Je sais où se trouve la trousse de secours.  a. Répondez : b. Expliquez-moi :&#x20;
+12. V/F : Je sais où se trouve l'extincteur.  a. Répondez : b. Expliquez-moi :
 
 Complété par :\
 Date :\
@@ -33,8 +35,10 @@ Date :
 3. Faux. Quelle que soit la gravité de la blessure, l'instructeur/superviseur doit être avisé. C'est important parce que cela aide à maintenir un environnement de travail propre et contrôlé.
 4. Faux. Les surfaces de travail doivent être maintenues aussi propres que possible afin d'éviter tout risque de blessure.
 5. Faux. Les effets personnels, en particulier ceux qui sont munis de sangles, présentent un risque sérieux de trébuchement.
-6. Vrai. En utilisant un outil comme prévu, la durée de vie de l'outil est considérablement augmentée. Parmi les erreurs courantes, citons l'utilisation de tournevis comme levier, de clés comme marteau et de clés hexagonales sur les boulons Torx. _you monster!_
+6. Vrai. En utilisant un outil comme prévu, la durée de vie de l'outil est considérablement augmentée. Parmi les erreurs courantes, citons l'utilisation de tournevis comme levier, de clés comme marteau et de clés hexagonales sur les boulons Torx ou inversément (ce qui peut fonctionner mais abîme l'outil). _you monster!_
 7. Faux. La sécurité ne doit jamais être sacrifiée sur l'autel du gain de temps.
 8. Vrai. Cela aide à maintenir un environnement de travail ordonné.
 9. Vrai. Le respect de cette pratique assure le déplacement en toute sécurité de ces objets. Si vous essayez de les déplacer vous-même, vous risquez de vous blesser ou de blesser les personnes qui vous entourent.
 10. Vrai. Suivre cette règle aide à prévenir les blessures involontaires causées par des objets tombant d'une surface surélevée.
+11. J'espère que c'est vrai ! La trousse de secours est la boîte orange rangée au-dessus des poubelles, face à l'évier de cuisine.
+12. J'espère que c'est vrai ! L'extincteur est le long du mur extérieur de la toilette, à côté de l'évier en inox.

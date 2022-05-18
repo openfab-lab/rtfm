@@ -2,28 +2,28 @@
 
 ## General Makerspace Safety test
 
-Beaucoup d'entre nous ont le cafard à la vue de l'évaluation écrite, mais rassurez-vous, ces tests sont un peu différents. Il est souvent difficile d'évaluer les compétences, surtout lorsqu'il s'agit de l'utilisation sécuritaire de l'équipement. Ces tests de sécurité servent à évaluer les connaissances écrites du membre quant à l'utilisation appropriée de l'équipement ainsi que sa capacité à démontrer physiquement ses habiletés. Le but de ces tests n'est pas d'interdire l'utilisation de l'équipement, mais plutôt de déterminer qui a besoin d'être guidé jusqu'à ce qu'il atteigne un niveau de compétence qui lui permette de fonctionner de façon autonome. 
+Beaucoup d'entre nous ont le cafard à la vue de l'évaluation écrite, mais rassurez-vous, ces tests sont un peu différents. Il est souvent difficile d'évaluer les compétences, surtout lorsqu'il s'agit de l'utilisation sécuritaire de l'équipement. Ces tests de sécurité servent à évaluer les connaissances écrites du membre quant à l'utilisation appropriée de l'équipement ainsi que sa capacité à démontrer physiquement ses habiletés. Le but de ces tests n'est pas d'interdire l'utilisation de l'équipement, mais plutôt de déterminer qui a besoin d'être guidé jusqu'à ce qu'il atteigne un niveau de compétence qui lui permette de fonctionner de façon autonome.
 
-![](../../../.gitbook/assets/image%20%2815%29%20%281%29.png)
+![](<../../../.gitbook/assets/image (15) (1) (1).png>)
 
-Le test suivant est conçu pour évaluer votre compréhension des bonnes pratiques requises par notre Makerspace. 
+Le test suivant est conçu pour évaluer votre compréhension des bonnes pratiques requises par notre Makerspace.
 
 #### Répondez aux questions du mieux que vous le pouvez. Vrai/faux et expliquer
 
-1.  V/F : Les lunettes de sécurité et les lunettes de protection offrent le même type de protection.  a. Répondez :  b. Expliquez-moi : 
-2.  V/F : La protection oculaire ne doit être portée que lorsque l'on travaille avec des outils qui sont potentiellement dangereux.  a. Répondez :  b. Expliquez-moi : 
-3. V/F : Les petites coupures et éraflures ne nécessitent pas l'attention de l'instructeur/superviseur. a. Répondez :  b. Expliquez-moi : 
-4. V/F : Il est acceptable de laisser une surface de travail encombrée lorsqu'elle n'est pas utilisée.  a. Répondez :  b. Expliquez-moi : 
-5. V/F : Les effets personnels tels que les sacs de livres peuvent être laissés sur le sol pendant que vous travaillez.  a. Répondez :  b. Expliquez-moi : 
-6. V/F : Les outils ne doivent être utilisés que pour l'usage auquel ils sont destinés.  a. Répondez :  b. Expliquez-moi : 
-7. V/F : Les appareils électroniques tels que les fers à souder devraient être laissés branchés si quelqu'un d'autre attend de les utiliser.  a. Répondez :  b. Expliquez-moi : 
-8. V/F : Les outils doivent être rangés dans un endroit organisé.  a. Répondez :  b. Expliquez-moi : 
-9. V/F : Il faut demander de l'aide chaque fois qu'il s'agit de gros matériaux, d'équipement ou de surfaces de travail qui doivent être déplacés.  a. Répondez :  b. Expliquez-moi : 
-10. V/F : Lorsque vous stockez une étagère, les articles les plus lourds doivent être placés sur le fond.  a. Répondez :  b. Expliquez-moi : 
+1. V/F : Les lunettes de sécurité et les lunettes de protection offrent le même type de protection. a. Répondez : b. Expliquez-moi :
+2. V/F : La protection oculaire ne doit être portée que lorsque l'on travaille avec des outils qui sont potentiellement dangereux. a. Répondez : b. Expliquez-moi :
+3. V/F : Les petites coupures et éraflures ne nécessitent pas l'attention de l'instructeur/superviseur. a. Répondez : b. Expliquez-moi :
+4. V/F : Il est acceptable de laisser une surface de travail encombrée lorsqu'elle n'est pas utilisée. a. Répondez : b. Expliquez-moi :
+5. V/F : Les effets personnels tels que les sacs de livres peuvent être laissés sur le sol pendant que vous travaillez. a. Répondez : b. Expliquez-moi :
+6. V/F : Les outils ne doivent être utilisés que pour l'usage auquel ils sont destinés. a. Répondez : b. Expliquez-moi :
+7. V/F : Les appareils électroniques tels que les fers à souder devraient être laissés branchés si quelqu'un d'autre attend de les utiliser. a. Répondez : b. Expliquez-moi :
+8. V/F : Les outils doivent être rangés dans un endroit organisé. a. Répondez : b. Expliquez-moi :
+9. V/F : Il faut demander de l'aide chaque fois qu'il s'agit de gros matériaux, d'équipement ou de surfaces de travail qui doivent être déplacés. a. Répondez : b. Expliquez-moi :
+10. V/F : Lorsque vous stockez une étagère, les articles les plus lourds doivent être placés sur le fond. a. Répondez : b. Expliquez-moi :
 
-Complété par :   
-Date :   
-Vérifié par :   
+Complété par :\
+Date :\
+Vérifié par :\
 Date :
 
 #### General Makerspace Safety Test Answer Key
@@ -38,4 +38,3 @@ Date :
 8. Vrai. Cela aide à maintenir un environnement de travail ordonné.
 9. Vrai. Le respect de cette pratique assure le déplacement en toute sécurité de ces objets. Si vous essayez de les déplacer vous-même, vous risquez de vous blesser ou de blesser les personnes qui vous entourent.
 10. Vrai. Suivre cette règle aide à prévenir les blessures involontaires causées par des objets tombant d'une surface surélevée.
-

@@ -9,9 +9,11 @@ description: Liste ceux auxquels nous pouvons ou avons fait appel.
 Il faudrait définir des accords avec l'un ou l'autre pour nos produits. Qu'on sache une bonne fois pour toute où se fournir de quoi et à quel prix.\
 _note 23.01.17:_ Pour des achats de bois massifs, c'est la tristesse chez les fournisseurs. Faudra essayer les scieries directements. [http://www.pagesdor.be/bois-scieries-raboteries/](http://www.pagesdor.be/bois-scieries-raboteries/)
 
-### Emoji github
-
-![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) [cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+## Consommable d'entretient
+### VMC
+https://www.topswtwfilters.nl/en/zehnder/zehnder-comfoair/zehnder-comfoair-q-350-450-600
+### BOFA
+https://www.weidinger.eu/en/c/fume-extraction/laser-fume/laser-fume-filter/?a_pim_hersteller_webshop=4116
 
 ## Bois
 

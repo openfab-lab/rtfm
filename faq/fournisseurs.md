@@ -274,6 +274,12 @@ TEL: 0475/803508\
 deker.sprl@gmail.com\
 Service CNC Bois
 
+**3DInTheBox**\
+"3Dinthebox est un incontournable sur le marché des imprimantes 3D pour un usage domestique, l'éducation et les petites applications industrielles."\
+Itterbeeksebaan 42\
+1700 Dilbeek\
+https://www.3dinthebox.eu/fr/
+
 ## Drinks
 
 **Club Mate**\

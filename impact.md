@@ -17,7 +17,7 @@
 Par un cadre d'éducation permanente, **les personnes choisissent le parcours d'apprentissage adapté à leur besoin, pratiquent à leur rythme et sont soutenus par une communauté de pairs**.\
 L'acquisition des compétences est validée par un processus de **micro-certifications** par badges (openbadges by mozilla), et l'interconnexion avec d'autres sites-école et leurs spécialités, sera encouragée pour développer un écosystème d'apprentissage local et global, où chacun est libre de cultiver son arbre de compétences.
 
-![https://weareopen.coop/OB101/modules/what/do/](<.gitbook/assets/image (27) (2) (4).png>)
+![https://weareopen.coop/OB101/modules/what/do/](<.gitbook/assets/image (27) (2) (1) (3).png>)
 
 ### 2. **Decent work and economic development**
 

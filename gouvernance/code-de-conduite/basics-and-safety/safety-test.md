@@ -4,7 +4,7 @@
 
 Beaucoup d'entre nous ont le cafard à la vue de l'évaluation écrite, mais rassurez-vous, ces tests sont un peu différents. Il est souvent difficile d'évaluer les compétences, surtout lorsqu'il s'agit de l'utilisation sécuritaire de l'équipement. Ces tests de sécurité servent à évaluer les connaissances écrites du membre quant à l'utilisation appropriée de l'équipement ainsi que sa capacité à démontrer physiquement ses habiletés. Le but de ces tests n'est pas d'interdire l'utilisation de l'équipement, mais plutôt de déterminer qui a besoin d'être guidé jusqu'à ce qu'il atteigne un niveau de compétence qui lui permette de fonctionner de façon autonome.
 
-![](<../../../.gitbook/assets/image (15) (1) (1).png>)
+![](<../../../.gitbook/assets/image (15) (1) (1) (1).png>)
 
 Le test suivant est conçu pour évaluer votre compréhension des bonnes pratiques requises par notre Makerspace.
 

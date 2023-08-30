@@ -8,12 +8,21 @@ description: Liste ceux auxquels nous pouvons ou avons fait appel.
 
 Il faudrait définir des accords avec l'un ou l'autre pour nos produits. Qu'on sache une bonne fois pour toute où se fournir de quoi et à quel prix.\
 _note 23.01.17:_ Pour des achats de bois massifs, c'est la tristesse chez les fournisseurs. Faudra essayer les scieries directements. [http://www.pagesdor.be/bois-scieries-raboteries/](http://www.pagesdor.be/bois-scieries-raboteries/)
+_note 23.08.30:_ plusieurs références semblent avoir fermé, merci de signaler ou directement mettre à jour ce document. 
 
 ## Consommable d'entretient
-### VMC
-https://www.topswtwfilters.nl/en/zehnder/zehnder-comfoair/zehnder-comfoair-q-350-450-600
-### BOFA
-https://www.weidinger.eu/en/c/fume-extraction/laser-fume/laser-fume-filter/?a_pim_hersteller_webshop=4116
+### VMC - ventilation double flux
+modèle: [Zehnder ComfoAir Q600 ST](https://www.zehnder.be/fr/ventilation/systeme-d/comfoair-q)
+La machine comporte 2 types de filtre: G4 et F7 = [classe de filtration](https://www.topswtwfilters.nl/images/static/filter-info/filter_info_en.jpg?v=2)
+[Zehnder ComfoAir Q 350 / 450 / 600 - Filter set G4 + F7](https://www.topswtwfilters.nl/en/zehnder/zehnder-comfoair/zehnder-comfoair-q-350-450-600/zehnder-comfoair-q-350-450-600-filterset-g4-f7-t03098)
+
+### BOFA - filtre à fumée pour machine laser
+modèle: [**AD Oracle iQ**](https://www.weidinger.eu/en/fume-extraction/laser-fume/laser-fume-units/wl35810)  
+La machine comporte 2 types de filtre: 
+- 1 pour les particules, en bas (217€ au 09.2023)
+[manufacturer item number: 1UA1030156](https://www.weidinger.eu/en/fume-extraction/laser-fume/laser-fume-filter/wl36777)
+- 1 pour la fumée toxique, en haut (350€ au 09.2023)
+[manufacturer item number: 1UA1030155](https://www.weidinger.eu/en/fume-extraction/laser-fume/laser-fume-filter/wl36775)
 
 ## Bois
 

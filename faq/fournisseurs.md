@@ -101,6 +101,11 @@ _Demande d'info par tel ou par formulaire. **pas encore de mail**_
 [http://www.biemar.be/index.php/panneaux-67151/panneaux-multiplex-4986](http://www.biemar.be/index.php/panneaux-67151/panneaux-multiplex-4986)\
 à Soumagne ou à Malmedy
 
+### Bois spéciaux
+**Roarockit.eu**\
+> placage d'érable (Hard Maple) naturel, de couleur, ou bambou en 1.58 mm d'épaisseur de qualité supérieure.  
+[https://www.roarockit.eu/](https://www.roarockit.eu/)  
+
 ## Plastique
 
 **pragma plexy**\

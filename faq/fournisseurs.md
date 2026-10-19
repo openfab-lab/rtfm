@@ -305,6 +305,14 @@ Rue Meyerbeer 145, 1180, Uccle\
 danielguiot@msn.com\
 _Ouvert que le dimanche matin. Référence via cordonnier._
 
+## Vinyle
+
+**Créadhésif:**\
+[https://creadhesif.com/](https://creadhesif.com/)\
++33134330155\
+contact@creadhesif.com\
+_Boutique en ligne (France), livraison gratuite dès 150 €. Laize 30 cm, la largeur de notre Silhouette Cameo 3. Vinyle Avery 500 (47 couleurs) à 26,10 € TVAC le rouleau, papier de transfert 30 cm × 100 m à 62 € TVAC (prix relevés le 2026-10-19). L'Avery 500 a une colle permanente : pour des pochoirs à retirer après peinture, prendre un vinyle à colle amovible. Frais d'envoi vers la Belgique à vérifier._
+
 ## Papier
 
 **Schleiper:**\

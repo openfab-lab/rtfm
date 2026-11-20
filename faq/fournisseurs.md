@@ -20,7 +20,38 @@ _note 23.08.30:_ plusieurs références semblaient avoir fermé — vérifié en
 
 ## Consommable d'entretien
 
-_(voir les modèles de filtres documentés dans la version précédente de ce fichier — cette section liste des références de pièces, pas des fournisseurs)_
+### VMC — ventilation double flux
+
+Modèle : **Zehnder ComfoAir Q600 ST**
+2 filtres à renouveler (~tous les 6 mois) :
+- **G4** — particules grossières
+- **F7** — poussières fines / pollen
+
+**Tops filters:**\
+[https://www.topswtwfilters.nl/en/zehnder/zehnder-comfoair/zehnder-comfoair-q-350-450-600/zehnder-comfoair-q-350-450-600-filterset-g4-f7-t03098](https://www.topswtwfilters.nl/en/zehnder/zehnder-comfoair/zehnder-comfoair-q-350-450-600/zehnder-comfoair-q-350-450-600-filterset-g4-f7-t03098)\
+_11.2026 : set G4 + F7 à 24,41 €. Livraison offerte dès 50 €. Réf. Tops T03098 (réf. d'origine 400502013). Remise dès 3 sets._
+
+### Filtration laser — BOFA AD Oracle iQ
+
+Extracteur de fumée pour laser **BOFA AD Oracle iQ** (BOFA International Ltd, Poole, UK).
+La machine comporte 2 filtres à remplacer :
+
+- **Pré-filtre particules** (en bas) — réf. fabricant `1UA1030156` (A1030156)
+- **Filtre combiné fumée / gaz** (en haut) — réf. fabricant `1UA1030155` (A1030155)
+
+**SignSeen:**\
+[https://www.signseen.nl/filters-bofa-ad-oracle-iq.html](https://www.signseen.nl/filters-bofa-ad-oracle-iq.html)\
+Storkstraat 24, 3905 KX Veenendaal, Pays-Bas\
++31 (0)318 502 897\
+info@signseen.nl\
+_11.2026 : pré-filtre A1030156 236,00 € HT · filtre combiné A1030155 391,00 € HT. Livraison offerte > 250 €. SKU filters-ad-oracle._
+
+**Weidinger:**\
+[https://www.weidinger.eu/fr/wl35810](https://www.weidinger.eu/fr/wl35810)\
+WEIDINGER GmbH, Hertha-Sponer-Str. 1a, 82216 Gernlinden, Allemagne\
++49 (0)8142 / 4289-300\
+info@weidinger.eu\
+_Page du système complet WL35810 — les 2 consommables en bas : pré-filtre WL36777 (1UA1030156) 239,10 € HT · filtre combiné WL36775 (1UA1030155) 396,13 € HT._
 
 ## Bois
 
